@@ -11,8 +11,8 @@ searchableAttributes:
   - "example"
   - "definition"
 ui:
-  title: "SkoHub Vocabs" # Title is mandatory
-  logo: "skohub-signet-color.svg" # Path
+  title: "DHI Rom Vocabs" # Title is mandatory
+  logo: "logo-dhi-main.png" # Path
   colors:
     skoHubWhite: "rgb(255, 255, 255)"
     skoHubDarkColor: "rgb(15, 85, 75)"
