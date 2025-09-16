@@ -9,20 +9,19 @@
       "A general term for any geographical area or position where a specific event or institution is situated, used broadly in ecclesiastical and secular contexts."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_58",
-    "prefLabel": {
-      "en": "type of place"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_58"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_58"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_58"
     }
   ],
   "@context": {

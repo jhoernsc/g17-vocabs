@@ -9,20 +9,19 @@
       "The term “deceased outside of Rome” (ex curiam in Latin) generally refers to someone who passed away outside the jurisdiction or physical boundaries of Rome, often implying that the person died away from the central Church authority or the Roman Curia. If the deceased was a cleric or an official of the Roman Curia, dying outside of Rome (ex curiam) might indicate that the individual was away from their official post or duties. This could raise questions about whether they were on an authorized mission, in exile, or absent for personal reasons."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_92",
-    "prefLabel": {
-      "en": "deceased at place"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_92"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_92"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_92"
     }
   ],
   "@context": {

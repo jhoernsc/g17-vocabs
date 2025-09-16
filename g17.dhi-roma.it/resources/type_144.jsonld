@@ -9,20 +9,19 @@
       "An official act setting aside a specific portion of church revenues as a pension for a cleric or church official, typically upon retirement or in special circumstances."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_142",
-    "prefLabel": {
-      "en": "subtype of event"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_142"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_142"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_142"
     }
   ],
   "@context": {

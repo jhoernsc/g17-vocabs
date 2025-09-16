@@ -53,20 +53,19 @@
       }
     }
   ],
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_459",
-    "prefLabel": {
-      "en": "type of object"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_459"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_459"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_459"
     }
   ],
   "@context": {

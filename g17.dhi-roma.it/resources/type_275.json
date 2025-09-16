@@ -9,20 +9,19 @@
       "The title for the leader of a church-related institution, such as a seminary or religious school, overseeing its operations and educational activities."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_83",
-    "prefLabel": {
-      "en": "category of benefice"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_83"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "@context": {

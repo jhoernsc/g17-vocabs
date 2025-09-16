@@ -9,20 +9,19 @@
       "A benefice granted to a clerk, who, being defective in capacity for a benefice or other ecclesiastical function, is de facto admitted to it."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_75",
-    "prefLabel": {
-      "en": "subform of event"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_75"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "@context": {

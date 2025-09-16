@@ -9,20 +9,19 @@
       "The cause of vacancy described as “passed down” typically indicates that the vacancy occurred because the previous officeholder relinquished the office voluntarily or by an act of law, transferring the position to another person. As a very generic term this could happen in several ways, such as: resignation, promotion or legal/costumary transfer"
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_75",
-    "prefLabel": {
-      "en": "subform of event"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_75"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "@context": {

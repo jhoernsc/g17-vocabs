@@ -14,20 +14,19 @@
       "The vicar basically designates the office of deputy. This can be different deputies: parish vicar, cardinal vicar, episcopal vicar..."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_83",
-    "prefLabel": {
-      "en": "category of benefice"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_83"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "@context": {

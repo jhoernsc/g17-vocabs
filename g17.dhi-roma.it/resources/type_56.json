@@ -9,20 +9,19 @@
       "A designation for an area whose exact identity or specifics are not clearly defined or recorded, often used in ecclesiastical documents for areas with unclear boundaries."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_58",
-    "prefLabel": {
-      "en": "type of place"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_58"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_58"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_58"
     }
   ],
   "@context": {

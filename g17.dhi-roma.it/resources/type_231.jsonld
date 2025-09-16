@@ -14,20 +14,19 @@
       "A prebend is an income without direct reference to an office or the duties that go with it."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_83",
-    "prefLabel": {
-      "en": "category of benefice"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_83"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "@context": {

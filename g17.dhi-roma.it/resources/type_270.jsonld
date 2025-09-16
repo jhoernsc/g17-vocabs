@@ -9,20 +9,19 @@
       "A formal ecclesiastical act that reinstates or adjusts the terms of a pension previously granted to a cleric or church official, ensuring financial continuity."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_142",
-    "prefLabel": {
-      "en": "subtype of event"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_142"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_142"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_142"
     }
   ],
   "@context": {

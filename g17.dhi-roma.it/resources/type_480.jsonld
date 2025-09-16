@@ -9,20 +9,19 @@
       "A unit of currency or value, often used historically in ecclesiastical contexts, referring to wine used as a medium of exchange or offering."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_180",
-    "prefLabel": {
-      "en": "currency"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_180"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_180"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_180"
     }
   ],
   "@context": {

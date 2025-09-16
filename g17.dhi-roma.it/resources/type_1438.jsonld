@@ -18,20 +18,19 @@
       }
     }
   ],
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_50",
-    "prefLabel": {
-      "en": "type of subregister"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_50"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_50"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_50"
     }
   ],
   "@context": {

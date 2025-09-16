@@ -9,20 +9,19 @@
       "A concept or event that is considered a Mystery of Faithy by the Catholic Church"
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_479",
-    "prefLabel": {
-      "en": "type of dedication"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_479"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_479"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_479"
     }
   ],
   "@context": {

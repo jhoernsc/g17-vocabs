@@ -9,20 +9,19 @@
       "An ecclesiastical office providing a cleric with a stable income and often involving pastoral duties, adhering to specific canonical rules within a religious order."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_85",
-    "prefLabel": {
-      "en": "regular benefice"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_85"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_85"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_85"
     }
   ],
   "@context": {

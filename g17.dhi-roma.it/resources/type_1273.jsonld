@@ -12,20 +12,19 @@
   "example": {
     "en": "jurispatronatus mixti"
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_1271",
-    "prefLabel": {
-      "en": "type of patronage"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_1271"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_1271"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1271"
     }
   ],
   "@context": {

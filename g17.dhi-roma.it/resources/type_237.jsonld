@@ -14,20 +14,19 @@
       "The ecclesiastical rector is usually a priest who does not preside over a parish or a monastery. However, the term is also used for a priest who acts as the head of a female congregation."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_83",
-    "prefLabel": {
-      "en": "category of benefice"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_83"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "@context": {

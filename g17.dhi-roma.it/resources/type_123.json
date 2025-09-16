@@ -9,20 +9,19 @@
       "auto-generated from erectChurch()"
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_63",
-    "prefLabel": {
-      "en": "type of institution"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_63"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_63"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_63"
     }
   ],
   "@context": {

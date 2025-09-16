@@ -9,20 +9,19 @@
       "The act of officially reducing the pension amount granted to a cleric or church official, typically in response to changes in financial circumstances or church policies."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_142",
-    "prefLabel": {
-      "en": "subtype of event"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_142"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_142"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_142"
     }
   ],
   "@context": {

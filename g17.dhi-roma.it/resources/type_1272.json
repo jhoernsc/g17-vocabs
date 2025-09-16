@@ -9,20 +9,19 @@
       "The patronage of laymen (jurispatronatus laicorum in Latin) refers to the historical right of lay individuals or families to sponsor, protect, or exercise influence over certain ecclesiastical institutions, such as churches, benefices, or monasteries. This often included the right to nominate candidates for certain church offices, fund religious buildings, or oversee their administration, typically in exchange for financial support or land grants."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_1271",
-    "prefLabel": {
-      "en": "type of patronage"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_1271"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_1271"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1271"
     }
   ],
   "@context": {

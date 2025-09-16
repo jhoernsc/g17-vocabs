@@ -9,20 +9,19 @@
       "\"sub invocatione\" seems to relate to another structure mentioned, e.g. a chapell."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_466",
-    "prefLabel": {
-      "en": "dedication scope"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_466"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_466"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_466"
     }
   ],
   "@context": {

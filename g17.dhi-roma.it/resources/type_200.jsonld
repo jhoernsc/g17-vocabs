@@ -9,20 +9,19 @@
       "In canon law, commenda (or in commendam) was a form of transferring an ecclesiastical benefice in trust to the custody of a patron."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_142",
-    "prefLabel": {
-      "en": "subtype of event"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_142"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_142"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_142"
     }
   ],
   "@context": {

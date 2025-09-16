@@ -24,20 +24,19 @@
       }
     }
   ],
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_53",
-    "prefLabel": {
-      "en": "type of event"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_53"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_53"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_53"
     }
   ],
   "@context": {

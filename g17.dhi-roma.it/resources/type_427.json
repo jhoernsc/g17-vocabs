@@ -9,20 +9,19 @@
       "A benefice bestowed upon an individual who serves as the formal guardian or overseer of a church, involved in both spiritual and administrative capacities."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_83",
-    "prefLabel": {
-      "en": "category of benefice"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_83"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "@context": {

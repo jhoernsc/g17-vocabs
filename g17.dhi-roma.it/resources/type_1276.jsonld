@@ -9,20 +9,19 @@
       "In the context of the granting of benefices, “according to the constitution” refers to following the established laws, regulations, or decrees of the Church that govern the process. These rules ensure that benefices are granted in accordance with canon law and the intentions of the Church’s legal framework."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_75",
-    "prefLabel": {
-      "en": "subform of event"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_75"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "@context": {

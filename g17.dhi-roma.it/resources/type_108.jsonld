@@ -9,20 +9,19 @@
       "Term that indicated that an office that a churchman received included pastoral care (e.g. pastor)"
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_254",
-    "prefLabel": {
-      "en": "care of souls"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_254"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_254"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_254"
     }
   ],
   "@context": {

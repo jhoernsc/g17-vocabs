@@ -12,20 +12,19 @@
       }
     }
   ],
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_88",
-    "prefLabel": {
-      "en": "category of church"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_88"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_88"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_88"
     }
   ],
   "@context": {

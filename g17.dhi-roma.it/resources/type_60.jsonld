@@ -9,20 +9,19 @@
       "A legally recognized individual, as opposed to a corporate entity, involved in legal or church-related matters."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_59",
-    "prefLabel": {
-      "en": "type of person"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_59"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_59"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_59"
     }
   ],
   "@context": {

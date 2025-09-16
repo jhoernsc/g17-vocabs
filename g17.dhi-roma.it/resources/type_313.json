@@ -9,20 +9,19 @@
       "A provision act that renews the terms of a previously granted commenda, often to extend the administrative rights or duties of a cleric."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_75",
-    "prefLabel": {
-      "en": "subform of event"
-    }
-  },
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "inSchemeAll": [
     {
-      "id": "https://g17.dhi-roma.it/resources/"
+      "id": "https://g17.dhi-roma.it/resources/type_75"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "@context": {
