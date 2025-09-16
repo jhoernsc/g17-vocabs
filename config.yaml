@@ -12,7 +12,7 @@ searchableAttributes:
   - "definition"
 ui:
   title: "DHI Rom Vocabs" # Title is mandatory
-  logo: "logo-dhi-main.png" # Path
+  logo: "logo-dhi-main-web.png" # Path
   colors:
     skoHubWhite: "rgb(255, 255, 255)"
     skoHubDarkColor: "rgb(15, 85, 75)"
