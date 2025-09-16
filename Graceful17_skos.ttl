@@ -2775,7 +2775,8 @@ g17:type_855 rdfs:label "record id"@en ;
 g17:type_87 a skos:ConceptScheme ;
     rdfs:label "name of benefice"@en ;
     skos:prefLabel "name of benefice"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_89 a skos:Concept ;
     rdfs:label "saint"@en ;
@@ -2795,7 +2796,8 @@ g17:type_933 a skos:Concept ;
 g17:type_938 a skos:ConceptScheme ;
     rdfs:label "type of identifier"@en ;
     skos:prefLabel "type of identifier"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1 a skos:Concept ;
     rdfs:label "apostolic provision"@en ;
@@ -4839,18 +4841,21 @@ g17:type_935 a skos:Concept ;
 g17:type_1142 a skos:ConceptScheme ;
     rdfs:label "residence"@en ;
     skos:prefLabel "residence"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1165 a skos:ConceptScheme ;
     rdfs:label "type of archive"@en ;
     skos:note "The primary type of an archive"@en ;
     skos:prefLabel "type of archive"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1295 a skos:ConceptScheme ;
     rdfs:label "Place Types"@en ;
     skos:prefLabel "Place Types"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1337 a skos:Concept ;
     rdfs:label "education"@en ;
@@ -4919,18 +4924,21 @@ g17:type_411 a skos:Concept ;
 g17:type_85 a skos:ConceptScheme ;
     rdfs:label "regular benefice"@en ;
     skos:prefLabel "regular benefice"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_923 a skos:ConceptScheme ;
     rdfs:label "id type"@en ;
     skos:prefLabel "id type"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_93 a skos:ConceptScheme ;
     rdfs:label "monetary value normalized"@en ;
     skos:note "A normalized representation of a monetary values"@en ;
     skos:prefLabel "monetary value normalized"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1113 a skos:Concept ;
     rdfs:label "papal grace"@en ;
@@ -5247,46 +5255,54 @@ g17:type_466 a skos:ConceptScheme ;
     rdfs:label "dedication scope"@en ;
     skos:note "The entity or compound this dedication extends to"@en ;
     skos:prefLabel "dedication scope"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_59 a skos:ConceptScheme ;
     rdfs:label "type of person"@en ;
     skos:note "The primary type of a person"@en ;
     skos:prefLabel "type of person"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_92 a skos:ConceptScheme ;
     rdfs:label "deceased at place"@en ;
     skos:altLabel "apud sedem"@la ;
     skos:prefLabel "deceased at place"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_106 a skos:ConceptScheme ;
     rdfs:label "type of office"@en ;
     skos:prefLabel "type of office"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1166 a skos:ConceptScheme ;
     rdfs:label "type of source"@en ;
     skos:note "The primary type of a source"@en ;
     skos:prefLabel "type of source"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1177 a skos:ConceptScheme ;
     rdfs:label "type of type"@en ;
     skos:prefLabel "type of type"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1167 a skos:ConceptScheme ;
     rdfs:label "type of entry"@en ;
     skos:note "The primary type of an entry"@en ;
     skos:prefLabel "type of entry"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1271 a skos:ConceptScheme ;
     rdfs:label "type of patronage"@en ;
     skos:prefLabel "type of patronage"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1445 a skos:Concept ;
     rdfs:label "Personal reason"@en ;
@@ -5318,7 +5334,8 @@ g17:type_479 a skos:ConceptScheme ;
     rdfs:label "type of dedication"@en ;
     skos:note "The primary type of a dedication"@en ;
     skos:prefLabel "type of dedication"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1114 a skos:Concept ;
     rdfs:label "immaterial object"@en ;
@@ -5367,13 +5384,15 @@ g17:type_125 a skos:Concept ;
 g17:type_254 a skos:ConceptScheme ;
     rdfs:label "care of souls"@en ;
     skos:prefLabel "care of souls"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_459 a skos:ConceptScheme ;
     rdfs:label "type of object"@en ;
     skos:note "The primary type of an object"@en ;
     skos:prefLabel "type of object"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1446 a skos:Concept ;
     rdfs:label "Sanction"@en ;
@@ -5396,7 +5415,8 @@ g17:type_1446 a skos:Concept ;
 g17:type_252 a skos:ConceptScheme ;
     rdfs:label "source reference date"@en ;
     skos:prefLabel "source reference date"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_302 a skos:Concept ;
     rdfs:label "Holder of a benefice"@en ;
@@ -5577,13 +5597,15 @@ g17:type_302 a skos:Concept ;
 g17:type_50 a skos:ConceptScheme ;
     rdfs:label "type of subregister"@en ;
     skos:prefLabel "type of subregister"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_406 a skos:ConceptScheme ;
     rdfs:label "Vagueness"@en ;
     skos:note "Vagueness encompasses terms, concepts, or statements that are intentionally or inherently ambiguous to accommodate a broad spectrum of interpretations."@en ;
     skos:prefLabel "Vagueness"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1444 a skos:Concept ;
     rdfs:label "Administrative reason"@en ;
@@ -5611,13 +5633,15 @@ g17:type_53 a skos:ConceptScheme ;
     rdfs:label "type of event"@en ;
     skos:note "The primary type of an event"@en ;
     skos:prefLabel "type of event"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_180 a skos:ConceptScheme ;
     rdfs:label "currency"@en ;
     skos:note "The currency of a monetary value"@en ;
     skos:prefLabel "currency"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_1449 a skos:Concept ;
     rdfs:label "Church institutions"@en ;
@@ -5650,41 +5674,49 @@ g17:type_63 a skos:ConceptScheme ;
     rdfs:label "type of institution"@en ;
     skos:note "The primary type of an institution"@en ;
     skos:prefLabel "type of institution"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_142 a skos:ConceptScheme ;
     rdfs:label "subtype of event"@en ;
     skos:prefLabel "subtype of event"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_58 a skos:ConceptScheme ;
     rdfs:label "type of place"@en ;
     skos:note "The primary type of a place"@en ;
     skos:prefLabel "type of place"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_90 a skos:ConceptScheme ;
     rdfs:label "religious order"@en ;
     skos:prefLabel "religious order"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_91 a skos:ConceptScheme ;
     rdfs:label "cause of vacancy"@en ;
     skos:prefLabel "cause of vacancy"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_88 a skos:ConceptScheme ;
     rdfs:label "category of church"@en ;
     skos:prefLabel "category of church"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_75 a skos:ConceptScheme ;
     rdfs:label "subform of event"@en ;
     skos:prefLabel "subform of event"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
 g17:type_83 a skos:ConceptScheme ;
     rdfs:label "category of benefice"@en ;
     skos:prefLabel "category of benefice"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
+    skos:topConceptOf g17: .
 
