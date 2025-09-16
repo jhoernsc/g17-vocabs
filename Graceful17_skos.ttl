@@ -7,7 +7,7 @@
 g17: a skos:ConceptScheme ;
     rdfs:label "G17-Vocab"@en ;
     skos:prefLabel "G17-Vocab"@en ;
-    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
+    prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
     skos:hasTopConcept g17:type_108 .
 
 g17:type_108 a skos:Concept ;
