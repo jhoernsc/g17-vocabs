@@ -1,1 +1,167 @@
-{"id":"https://g17.dhi-roma.it/resources/type_83","type":"ConceptScheme","prefLabel":{"en":"category of benefice"},"hasTopConcept":[{"id":"https://g17.dhi-roma.it/resources/type_1389","prefLabel":{"en":"Dinner companion"}},{"id":"https://g17.dhi-roma.it/resources/type_1390","prefLabel":{"en":"Candle holder"}},{"id":"https://g17.dhi-roma.it/resources/type_1391","prefLabel":{"en":"chancellor"},"example":{"en":"cancellaria"}},{"id":"https://g17.dhi-roma.it/resources/type_1392","prefLabel":{"en":"Cellarer"}},{"id":"https://g17.dhi-roma.it/resources/type_1393","prefLabel":{"en":"Holder of an insignia"}},{"id":"https://g17.dhi-roma.it/resources/type_1394","prefLabel":{"en":"Guard"}},{"id":"https://g17.dhi-roma.it/resources/type_1395","prefLabel":{"en":"Infirmary"}},{"id":"https://g17.dhi-roma.it/resources/type_1398","prefLabel":{"en":"Precentor"}},{"id":"https://g17.dhi-roma.it/resources/type_1400","prefLabel":{"en":"Holder of a Conventual Mass"}},{"id":"https://g17.dhi-roma.it/resources/type_1401","prefLabel":{"en":"Prison confessor"}},{"id":"https://g17.dhi-roma.it/resources/type_1402","prefLabel":{"en":"Costume maker"}},{"id":"https://g17.dhi-roma.it/resources/type_1403","prefLabel":{"en":"Fur processor"}},{"id":"https://g17.dhi-roma.it/resources/type_1406","prefLabel":{"en":"paymaster"}},{"id":"https://g17.dhi-roma.it/resources/type_1407","prefLabel":{"en":"Head of a hermitage"},"example":{"en":"eremitorio"}},{"id":"https://g17.dhi-roma.it/resources/type_1410","prefLabel":{"en":"custodian"},"example":{"en":"custodia"}},{"id":"https://g17.dhi-roma.it/resources/type_1411","prefLabel":{"en":"sub-prior"},"example":{"en":"subprioratu"}},{"id":"https://g17.dhi-roma.it/resources/type_1413","prefLabel":{"en":"juridical office"},"example":{"en":"officium advocationis consistorialis"}},{"id":"https://g17.dhi-roma.it/resources/type_1414","prefLabel":{"en":"Head of a castle"}},{"id":"https://g17.dhi-roma.it/resources/type_1415","prefLabel":{"en":"Spiritual Overseer"},"example":{"en":"pietonalis"}},{"id":"https://g17.dhi-roma.it/resources/type_1416","prefLabel":{"en":"Deacon"}},{"id":"https://g17.dhi-roma.it/resources/type_1423","prefLabel":{"en":"archidiaconatu seu modo dignitate"}},{"id":"https://g17.dhi-roma.it/resources/type_227","prefLabel":{"en":"Abbot"},"altLabel":{"en":["abbatia"]}},{"id":"https://g17.dhi-roma.it/resources/type_228","prefLabel":{"en":"Archdeacon"},"altLabel":{"en":["archidiaconatu"]}},{"id":"https://g17.dhi-roma.it/resources/type_229","prefLabel":{"en":"Archpriest"}},{"id":"https://g17.dhi-roma.it/resources/type_231","prefLabel":{"en":"Prebendary"},"altLabel":{"en":["prebendae"]}},{"id":"https://g17.dhi-roma.it/resources/type_232","prefLabel":{"en":"Pastor"},"altLabel":{"en":["capellania"]}},{"id":"https://g17.dhi-roma.it/resources/type_234","prefLabel":{"en":"Cantorate"},"altLabel":{"en":["cantoratu"]}},{"id":"https://g17.dhi-roma.it/resources/type_236","prefLabel":{"en":"Curate"},"altLabel":{"en":["vicaria"]}},{"id":"https://g17.dhi-roma.it/resources/type_237","prefLabel":{"en":"Rectorship"},"altLabel":{"en":["rectoria"]}},{"id":"https://g17.dhi-roma.it/resources/type_242","prefLabel":{"en":"Holder of a benefice in a church"},"altLabel":{"en":["eccl"]}},{"id":"https://g17.dhi-roma.it/resources/type_243","prefLabel":{"en":"Treasurer"},"altLabel":{"en":["thesauraria"]}},{"id":"https://g17.dhi-roma.it/resources/type_247","prefLabel":{"en":"Primicerius"},"altLabel":{"en":["primiceriatu"]}},{"id":"https://g17.dhi-roma.it/resources/type_248","prefLabel":{"en":"Prior"},"altLabel":{"en":["prioratu"]}},{"id":"https://g17.dhi-roma.it/resources/type_255","prefLabel":{"en":"Holder of a dignity"}},{"id":"https://g17.dhi-roma.it/resources/type_256","prefLabel":{"en":"Dean"}},{"id":"https://g17.dhi-roma.it/resources/type_258","prefLabel":{"en":"Sacristan"}},{"id":"https://g17.dhi-roma.it/resources/type_260","prefLabel":{"en":"Parish"}},{"id":"https://g17.dhi-roma.it/resources/type_273","prefLabel":{"en":"Chamberlain"}},{"id":"https://g17.dhi-roma.it/resources/type_274","prefLabel":{"en":"Provostship"}},{"id":"https://g17.dhi-roma.it/resources/type_275","prefLabel":{"en":"Head of an institution"}},{"id":"https://g17.dhi-roma.it/resources/type_278","prefLabel":{"en":"Receiver of a rosary"}},{"id":"https://g17.dhi-roma.it/resources/type_301","prefLabel":{"en":"Highest ranked archdeacon"},"example":{"en":"archidiaconatu maior"}},{"id":"https://g17.dhi-roma.it/resources/type_303","prefLabel":{"en":"Corrector"},"example":{"en":"correctoria"}},{"id":"https://g17.dhi-roma.it/resources/type_324","prefLabel":{"en":"Scholaster"}},{"id":"https://g17.dhi-roma.it/resources/type_327","prefLabel":{"en":"Almoner"}},{"id":"https://g17.dhi-roma.it/resources/type_330","prefLabel":{"en":"Sexton"}},{"id":"https://g17.dhi-roma.it/resources/type_332","prefLabel":{"en":"Hebdomadarian"}},{"id":"https://g17.dhi-roma.it/resources/type_336","prefLabel":{"en":"Head of an oratory"}},{"id":"https://g17.dhi-roma.it/resources/type_337","prefLabel":{"en":"Scholar"},"example":{"en":"stipendio stud"}},{"id":"https://g17.dhi-roma.it/resources/type_338","prefLabel":{"en":"Personat"}},{"id":"https://g17.dhi-roma.it/resources/type_392","prefLabel":{"en":"Legacy"}},{"id":"https://g17.dhi-roma.it/resources/type_397","prefLabel":{"en":"Head of a mansion"}},{"id":"https://g17.dhi-roma.it/resources/type_419","prefLabel":{"en":"Patron"}},{"id":"https://g17.dhi-roma.it/resources/type_426","prefLabel":{"en":"Hospital carer"}},{"id":"https://g17.dhi-roma.it/resources/type_427","prefLabel":{"en":"Patron of a church"}},{"id":"https://g17.dhi-roma.it/resources/type_431","prefLabel":{"en":"Priest"}},{"id":"https://g17.dhi-roma.it/resources/type_434","prefLabel":{"en":"Receiver of an additional payment"},"example":{"en":"stipendiis"}},{"id":"https://g17.dhi-roma.it/resources/type_446","prefLabel":{"en":"Holy water bearer"},"example":{"en":"aquaria"}},{"id":"https://g17.dhi-roma.it/resources/type_447","prefLabel":{"en":"Preacher"},"example":{"en":"precantoria"}},{"id":"https://g17.dhi-roma.it/resources/type_448","prefLabel":{"en":"Lector"}},{"id":"https://g17.dhi-roma.it/resources/type_449","prefLabel":{"en":"Abbey Vicar"}},{"id":"https://g17.dhi-roma.it/resources/type_450","prefLabel":{"en":"Heir"}},{"id":"https://g17.dhi-roma.it/resources/type_451","prefLabel":{"en":"Holder of prestimony"}},{"id":"https://g17.dhi-roma.it/resources/type_302","prefLabel":{"en":"Holder of a benefice"},"narrower":[{"id":"https://g17.dhi-roma.it/resources/type_1282","prefLabel":{"en":"Unspecified benefice"},"example":{"en":"unspecified benefice"}},{"id":"https://g17.dhi-roma.it/resources/type_1405","prefLabel":{"en":"Church worker"}},{"id":"https://g17.dhi-roma.it/resources/type_1409","prefLabel":{"en":"Ecclesiastical property manager"}},{"id":"https://g17.dhi-roma.it/resources/type_238","prefLabel":{"en":"Receiver of a provision"},"altLabel":{"en":["provisione"]}},{"id":"https://g17.dhi-roma.it/resources/type_318","prefLabel":{"en":"Holder of a benefice in a Hospital Church"}},{"id":"https://g17.dhi-roma.it/resources/type_325","prefLabel":{"en":"Holder of a portion"}},{"id":"https://g17.dhi-roma.it/resources/type_326","prefLabel":{"en":"Holder of a priestly benefice"}},{"id":"https://g17.dhi-roma.it/resources/type_329","prefLabel":{"en":"Holder of a patrimonial benefice"}},{"id":"https://g17.dhi-roma.it/resources/type_331","prefLabel":{"en":"Holder of a clerical benefice"}},{"id":"https://g17.dhi-roma.it/resources/type_339","prefLabel":{"en":"Holder of a diaconal benefice"}},{"id":"https://g17.dhi-roma.it/resources/type_432","prefLabel":{"en":"Holder of a benefice in a hospital chapel"}}]},{"id":"https://g17.dhi-roma.it/resources/type_310","prefLabel":{"en":"monastic office"},"narrower":[{"id":"https://g17.dhi-roma.it/resources/type_1396","prefLabel":{"en":"Administrator of a monastery kitchen"},"example":{"en":"mongia"}},{"id":"https://g17.dhi-roma.it/resources/type_1404","prefLabel":{"en":"monastic pitch burner"},"example":{"en":"picantiaria"}},{"id":"https://g17.dhi-roma.it/resources/type_246","prefLabel":{"en":"Head of the monastery"},"altLabel":{"en":["monasterio"]}},{"id":"https://g17.dhi-roma.it/resources/type_261","prefLabel":{"en":"Head of a monastery which follows the orthodox right"},"altLabel":{"la":["Archimandrita"]},"example":{"en":"archimandritu"}}]},{"id":"https://g17.dhi-roma.it/resources/type_245","prefLabel":{"en":"Canonship and prebend"},"altLabel":{"en":["canonicatu et prebendae"]},"narrower":[{"id":"https://g17.dhi-roma.it/resources/type_1399","prefLabel":{"en":"Head of a Collegiate church"}},{"id":"https://g17.dhi-roma.it/resources/type_244","prefLabel":{"en":"Canonship"},"altLabel":{"en":["canonicatu"]}},{"id":"https://g17.dhi-roma.it/resources/type_428","prefLabel":{"en":"Theological canonship"}},{"id":"https://g17.dhi-roma.it/resources/type_429","prefLabel":{"en":"Magistrate canonship"}}]}],"@context":{"@version":1.1,"id":"@id","type":"@type","@vocab":"http://www.w3.org/2004/02/skos/core#","xsd":"http://www.w3.org/2001/XMLSchema#","dct":"http://purl.org/dc/terms/","dc":"http://purl.org/dc/elements/1.1/","schema":"https://schema.org/","vann":"http://purl.org/vocab/vann/","ldp":"http://www.w3.org/ns/ldp#","owl":"http://www.w3.org/2002/07/owl#","title":{"@id":"dct:title","@container":"@language"},"dc:title":{"@id":"dc:title","@container":"@language"},"dc:description":{"@id":"dc:description","@container":"@language"},"description":{"@id":"dct:description","@container":"@language"},"issued":{"@id":"dct:issued","@type":"xsd:date"},"created":{"@id":"dct:created","@type":"xsd:date"},"modified":{"@id":"dct:modified","@type":"xsd:date"},"creator":"dct:creator","publisher":"dct:publisher","preferredNamespacePrefix":"vann:preferredNamespacePrefix","preferredNamespaceUri":"vann:preferredNamespaceUri","isBasedOn":"schema:isBasedOn","source":"dct:source","prefLabel":{"@container":"@language"},"altLabel":{"@container":["@language","@set"]},"hiddenLabel":{"@container":["@language","@set"]},"definition":{"@container":"@language"},"note":{"@container":["@language","@set"]},"changeNote":{"@container":["@language","@set"]},"editorialNote":{"@container":["@language","@set"]},"historyNote":{"@container":["@language","@set"]},"scopeNote":{"@container":["@language","@set"]},"notation":{"@container":"@set"},"example":{"@container":"@language"},"narrower":{"@container":"@set"},"related":{"@container":"@set"},"relatedMatch":{"@container":"@set"},"narrowerTransitive":{"@container":"@set"},"broaderTransitive":{"@container":"@set"},"broadMatch":{"@container":"@set"},"narrowMatch":{"@container":"@set"},"closeMatch":{"@container":"@set"},"exactMatch":{"@container":"@set"},"hasTopConcept":{"@container":"@set"},"inScheme":{"@container":"@set"},"topConceptOf":{"@container":"@set"},"deprecated":{"@id":"owl:deprecated","@type":"xsd:boolean"},"isReplacedBy":{"@id":"dct:isReplacedBy","@container":"@set"}}}
+{
+  "id": "https://g17.dhi-roma.it/resources/type_83",
+  "type": "Concept",
+  "prefLabel": {
+    "en": "category of benefice"
+  },
+  "inScheme": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
