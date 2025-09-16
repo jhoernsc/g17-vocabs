@@ -9,6 +9,12 @@
       "The phrase “according to the constitution of Pius V” (iuxta constitutionem Pii V) refers to the appointment or granting of an ecclesiastical office in compliance with the decrees or guidelines established by Pope Pius V (papacy: 1566–1572). Pope Pius V is known for implementing significant reforms in line with the Council of Trent (1545–1563), which aimed to address abuses and improve the administration of the Church."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_75",
+    "prefLabel": {
+      "en": "subform of event"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "@context": {

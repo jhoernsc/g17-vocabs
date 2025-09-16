@@ -9,6 +9,12 @@
       "The highest administrative or governing body within a certain context, such as a government or ecclesiastical organization, responsible for overarching decision-making and policy."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_63",
+    "prefLabel": {
+      "en": "type of institution"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_63"
     }
   ],
   "@context": {

@@ -9,6 +9,14 @@
       "The primary type of an object"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1114",
+      "prefLabel": {
+        "en": "immaterial object"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

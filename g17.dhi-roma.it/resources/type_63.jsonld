@@ -9,6 +9,62 @@
       "The primary type of an institution"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1145",
+      "prefLabel": {
+        "en": "parish"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1146",
+      "prefLabel": {
+        "en": "deanery"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1147",
+      "prefLabel": {
+        "en": "archdeanery"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1148",
+      "prefLabel": {
+        "en": "vicariate"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_123",
+      "prefLabel": {
+        "en": "seat of worship"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1330",
+      "prefLabel": {
+        "en": "territorial prelate"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_57",
+      "prefLabel": {
+        "en": "ecclesiastical province"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_824",
+      "prefLabel": {
+        "en": "supreme body of government"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1192",
+      "prefLabel": {
+        "en": "diocese"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

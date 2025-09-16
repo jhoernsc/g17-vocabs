@@ -9,6 +9,14 @@
       "The primary type of an archive"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1168",
+      "prefLabel": {
+        "en": "physical archive"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

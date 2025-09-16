@@ -9,6 +9,20 @@
       "The primary type of a person"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_60",
+      "prefLabel": {
+        "en": "natural person"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_61",
+      "prefLabel": {
+        "en": "unidentified natural person"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

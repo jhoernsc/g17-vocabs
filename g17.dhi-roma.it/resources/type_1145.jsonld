@@ -9,6 +9,12 @@
       "A parish is a local community of the faithful within a diocese, entrusted to a parish priest for pastoral care, worship, and administration of sacraments."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_63",
+    "prefLabel": {
+      "en": "type of institution"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_63"
     }
   ],
   "@context": {

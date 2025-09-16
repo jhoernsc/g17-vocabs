@@ -9,6 +9,12 @@
       "A benefice designated for someone who provides care within a church-operated hospital, focusing on the spiritual and physical welfare of patients."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_83",
+    "prefLabel": {
+      "en": "category of benefice"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "@context": {

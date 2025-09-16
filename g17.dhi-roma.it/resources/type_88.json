@@ -4,6 +4,38 @@
   "prefLabel": {
     "en": "category of church"
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1449",
+      "prefLabel": {
+        "en": "Church institutions"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1450",
+      "prefLabel": {
+        "en": "Unspecified institution"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1447",
+      "prefLabel": {
+        "en": "Charitable institutions"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1451",
+      "prefLabel": {
+        "en": "Non-ecclesiastical institutions"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1448",
+      "prefLabel": {
+        "en": "Monastic institutions"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

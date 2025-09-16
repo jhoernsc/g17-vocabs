@@ -9,6 +9,12 @@
       "A term for areas within ecclesiastical records that are not clearly identified or whose exact location remains unspecified, often used in historical or archival contexts."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_58",
+    "prefLabel": {
+      "en": "type of place"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_58"
     }
   ],
   "@context": {

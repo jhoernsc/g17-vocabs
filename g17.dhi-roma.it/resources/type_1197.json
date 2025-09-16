@@ -9,6 +9,12 @@
       "A term for a geographic area within ecclesiastical records that comprises the boundaries of an institution’s jurisdiction."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_58",
+    "prefLabel": {
+      "en": "type of place"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_58"
     }
   ],
   "@context": {

@@ -9,6 +9,20 @@
       "apud sedem"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_116",
+      "prefLabel": {
+        "en": "deceased in Rome"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1274",
+      "prefLabel": {
+        "en": "Deceased outside Roman Curia"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

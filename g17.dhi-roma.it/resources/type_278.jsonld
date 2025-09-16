@@ -9,6 +9,12 @@
       "A benefice linked to the promotion of the Rosary, often involving responsibilities for fostering devotion to the Marian prayer among the community."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_83",
+    "prefLabel": {
+      "en": "category of benefice"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "@context": {

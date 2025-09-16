@@ -9,6 +9,12 @@
       "\"Residency required” means that the individual appointed to the office is obligated to reside within a specific geographical area or at a particular location tied to the office. This requirement ensures the officeholder can effectively fulfill their duties, such as pastoral care, governance, or liturgical responsibilities, by being physically present in the community they serve."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_1142",
+    "prefLabel": {
+      "en": "residence"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_1142"
     }
   ],
   "@context": {

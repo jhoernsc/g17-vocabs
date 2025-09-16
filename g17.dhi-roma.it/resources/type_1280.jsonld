@@ -9,6 +9,12 @@
       "Obtaining an absolution refers to receiving a formal pardon for specific canonical penalties or censures, granted by papal authority. This could include the remission of penalties for certain serious offenses against Church law, often involving the restoration of spiritual benefits or privileges."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_142",
+    "prefLabel": {
+      "en": "subtype of event"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_142"
     }
   ],
   "@context": {

@@ -9,6 +9,12 @@
       "A benefice associated with the sexton, who is responsible for the maintenance of church property and the supervision of burials and church grounds."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_83",
+    "prefLabel": {
+      "en": "category of benefice"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "@context": {

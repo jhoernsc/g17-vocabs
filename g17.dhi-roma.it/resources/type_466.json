@@ -9,6 +9,20 @@
       "The entity or compound this dedication extends to"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_467",
+      "prefLabel": {
+        "en": "altar"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_468",
+      "prefLabel": {
+        "en": "structure"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

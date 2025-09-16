@@ -4,6 +4,32 @@
   "prefLabel": {
     "en": "care of souls"
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_108",
+      "prefLabel": {
+        "en": "With care of souls"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_217",
+      "prefLabel": {
+        "en": "Without care of souls"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_455",
+      "prefLabel": {
+        "en": "Simple"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_456",
+      "prefLabel": {
+        "en": "conventual"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

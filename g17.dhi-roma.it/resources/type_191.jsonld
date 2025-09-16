@@ -9,6 +9,12 @@
       "An adjusted monetary value that includes variable additional amounts based on specific conditions or criteria, often used in financial accounts related to ecclesiastical benefices."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_93",
+    "prefLabel": {
+      "en": "monetary value normalized"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_93"
     }
   ],
   "@context": {

@@ -4,6 +4,20 @@
   "prefLabel": {
     "en": "type of type"
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_933",
+      "prefLabel": {
+        "en": "term"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_934",
+      "prefLabel": {
+        "en": "thesaurus"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

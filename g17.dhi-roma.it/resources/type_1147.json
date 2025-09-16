@@ -9,6 +9,12 @@
       "An archdeanery is a larger or more prominent division within a diocese, typically encompassing multiple deaneries. It may be overseen by an archdean, who has a role similar to a dean but with broader responsibilities."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_63",
+    "prefLabel": {
+      "en": "type of institution"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_63"
     }
   ],
   "@context": {

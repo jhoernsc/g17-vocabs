@@ -30,6 +30,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_90",
+    "prefLabel": {
+      "en": "religious order"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -38,9 +44,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_90"
     }
   ],
   "@context": {

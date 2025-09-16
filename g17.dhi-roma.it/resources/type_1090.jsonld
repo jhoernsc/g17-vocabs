@@ -9,6 +9,12 @@
       "Obtaining a dispensation refers to the process by which an individual receives formal permission from a church authority to be exempted from a specific ecclesiastical law or obligation. Dispensations are typically granted for pastoral reasons to help individuals comply with the faith while addressing unique circumstances, such as marrying a non-Catholic, being excused from fasting, or other requirements of canon law."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_142",
+    "prefLabel": {
+      "en": "subtype of event"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_142"
     }
   ],
   "@context": {

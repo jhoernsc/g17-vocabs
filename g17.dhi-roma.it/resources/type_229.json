@@ -9,6 +9,12 @@
       "The archpriest was a high-ranking priest who usually presided over a larger church institution (basilica or cathedral). His task consisted of the administration and supervision of these institutions as well as a group of subordinate priests."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_83",
+    "prefLabel": {
+      "en": "category of benefice"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "@context": {

@@ -9,6 +9,12 @@
       "A historic currency used in the Tours region of France, often mentioned in ecclesiastical transactions for valuation of church properties."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_180",
+    "prefLabel": {
+      "en": "currency"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_180"
     }
   ],
   "@context": {

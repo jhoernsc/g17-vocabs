@@ -4,6 +4,26 @@
   "prefLabel": {
     "en": "type of patronage"
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1272",
+      "prefLabel": {
+        "en": "Right of lay patronage"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1273",
+      "prefLabel": {
+        "en": "Right of mixed patronage"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1435",
+      "prefLabel": {
+        "en": "right of patronage not mentioned"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

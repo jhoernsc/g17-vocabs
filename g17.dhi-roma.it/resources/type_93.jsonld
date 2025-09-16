@@ -9,6 +9,14 @@
       "A normalized representation of a monetary values"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_191",
+      "prefLabel": {
+        "en": "with a floating additional amount"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

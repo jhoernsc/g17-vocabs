@@ -9,6 +9,20 @@
       "Vagueness encompasses terms, concepts, or statements that are intentionally or inherently ambiguous to accommodate a broad spectrum of interpretations."
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_407",
+      "prefLabel": {
+        "en": "Strategic Vagueness"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_411",
+      "prefLabel": {
+        "en": "Epistemic Uncertainty"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

@@ -9,6 +9,26 @@
       "The primary type of an entry"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1172",
+      "prefLabel": {
+        "en": "record"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1173",
+      "prefLabel": {
+        "en": "narrative"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1426",
+      "prefLabel": {
+        "en": "letter"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

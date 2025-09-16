@@ -4,6 +4,32 @@
   "prefLabel": {
     "en": "cause of vacancy"
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1445",
+      "prefLabel": {
+        "en": "Personal reason"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1443",
+      "prefLabel": {
+        "en": "Undetermined reason"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1446",
+      "prefLabel": {
+        "en": "Sanction"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1444",
+      "prefLabel": {
+        "en": "Administrative reason"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

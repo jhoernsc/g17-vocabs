@@ -9,6 +9,12 @@
       "A specific focus or dedication of a church or chapel altar, often honoring a saint or religious event, which defines the liturgical identity of the space."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_466",
+    "prefLabel": {
+      "en": "dedication scope"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_466"
     }
   ],
   "@context": {

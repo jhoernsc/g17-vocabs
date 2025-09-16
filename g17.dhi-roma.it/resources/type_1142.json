@@ -4,6 +4,14 @@
   "prefLabel": {
     "en": "residence"
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1143",
+      "prefLabel": {
+        "en": "residence required"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

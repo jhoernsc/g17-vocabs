@@ -23,6 +23,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_406",
+    "prefLabel": {
+      "en": "Vagueness"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -31,9 +37,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_406"
     }
   ],
   "@context": {

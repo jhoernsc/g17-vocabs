@@ -9,6 +9,20 @@
       "The primary type of an event"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1113",
+      "prefLabel": {
+        "en": "papal grace"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1334",
+      "prefLabel": {
+        "en": "biographical event"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

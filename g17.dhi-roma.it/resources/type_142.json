@@ -4,6 +4,80 @@
   "prefLabel": {
     "en": "subtype of event"
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1090",
+      "prefLabel": {
+        "en": "Obtaining a dispensation"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1091",
+      "prefLabel": {
+        "en": "Obtaining an indult"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1280",
+      "prefLabel": {
+        "en": "Obtaining an absolution"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1281",
+      "prefLabel": {
+        "en": "Reservation of a benefice"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_143",
+      "prefLabel": {
+        "en": "Granting of benefice"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_144",
+      "prefLabel": {
+        "en": "Reservation of a pension"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_198",
+      "prefLabel": {
+        "en": "Reduction of a pension"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_199",
+      "prefLabel": {
+        "en": "Cancellation of a pension"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_200",
+      "prefLabel": {
+        "en": "Placing a commenda"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_204",
+      "prefLabel": {
+        "en": "Assistance by a coadjutor"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_270",
+      "prefLabel": {
+        "en": "revalidation of a pension"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_481",
+      "prefLabel": {
+        "en": "Provision"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

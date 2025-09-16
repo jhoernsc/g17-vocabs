@@ -9,6 +9,12 @@
       "Refers to an ecclesiastical figure who passed away in Rome, often noted for their significant role or contributions to the Church."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_92",
+    "prefLabel": {
+      "en": "deceased at place"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_92"
     }
   ],
   "@context": {

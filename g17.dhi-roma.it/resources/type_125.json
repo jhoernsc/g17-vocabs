@@ -54,6 +54,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_252",
+    "prefLabel": {
+      "en": "source reference date"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -62,9 +68,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_252"
     }
   ],
   "@context": {

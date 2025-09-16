@@ -9,6 +9,12 @@
       "Obtaining an indult refers to receiving special permission or a privilege granted by the Pope or a church authority to deviate from a standard Church law or practice. Indults are typically broader or more permanent than dispensations and are often requested for significant or ongoing needs, such as permission for a priest to leave active ministry or for religious communities to adopt particular practices."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_142",
+    "prefLabel": {
+      "en": "subtype of event"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_142"
     }
   ],
   "@context": {

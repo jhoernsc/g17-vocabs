@@ -9,6 +9,12 @@
       "The ecclesiastical endorsement of an agreement, often involving benefices or church properties, ensuring that all terms are in accordance with church law and doctrine."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_75",
+    "prefLabel": {
+      "en": "subform of event"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "@context": {

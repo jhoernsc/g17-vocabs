@@ -9,6 +9,12 @@
       "A provision that involves the repair or reinstatement of ecclesiastical property or rights previously lost or damaged, restoring them to their former condition."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_75",
+    "prefLabel": {
+      "en": "subform of event"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "@context": {

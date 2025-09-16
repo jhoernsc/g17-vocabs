@@ -16,6 +16,12 @@
       "A historic currency unit used in the Papal States and other parts of Italy, often referenced in church financial records regarding benefice incomes or church expenses."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_180",
+    "prefLabel": {
+      "en": "currency"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -24,9 +30,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_180"
     }
   ],
   "@context": {

@@ -9,6 +9,12 @@
       "A specific geographic division within a larger region, used in ecclesiastical and civil administration to organize local governance and church jurisdictions."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_58",
+    "prefLabel": {
+      "en": "type of place"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_58"
     }
   ],
   "@context": {

@@ -4,6 +4,14 @@
   "prefLabel": {
     "en": "type of office"
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1121",
+      "prefLabel": {
+        "en": "catholic clerical office"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

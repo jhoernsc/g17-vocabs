@@ -14,6 +14,12 @@
       "A specific type of ecclesiastical provision that involves the return or restoration of church properties or rights, typically following a period of dispute or mismanagement."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_75",
+    "prefLabel": {
+      "en": "subform of event"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -22,9 +28,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "@context": {

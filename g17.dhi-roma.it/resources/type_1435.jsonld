@@ -7,6 +7,12 @@
   "example": {
     "en": "right of patronage not mentioned"
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_1271",
+    "prefLabel": {
+      "en": "type of patronage"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -15,9 +21,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_1271"
     }
   ],
   "@context": {

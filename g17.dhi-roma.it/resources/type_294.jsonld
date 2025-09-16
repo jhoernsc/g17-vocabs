@@ -9,6 +9,12 @@
       "A provision that extends the terms or benefits of an ecclesiastical office or benefice, often to accommodate changes in administration or scope of duties."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_75",
+    "prefLabel": {
+      "en": "subform of event"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "@context": {

@@ -9,6 +9,12 @@
       "A major administrative division within the church, encompassing several dioceses and governed by a metropolitan archbishop, coordinating regional church affairs."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_63",
+    "prefLabel": {
+      "en": "type of institution"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_63"
     }
   ],
   "@context": {

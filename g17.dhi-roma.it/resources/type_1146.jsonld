@@ -9,6 +9,12 @@
       "A deanery is a grouping of neighboring parishes within a diocese, overseen by a dean. It facilitates collaboration among parishes and supports the bishop in administering the diocese."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_63",
+    "prefLabel": {
+      "en": "type of institution"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_63"
     }
   ],
   "@context": {

@@ -9,6 +9,12 @@
       "A generic term used for a currency that is not specified or identified in the records, often noted in historical or archival documents."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_180",
+    "prefLabel": {
+      "en": "currency"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_180"
     }
   ],
   "@context": {

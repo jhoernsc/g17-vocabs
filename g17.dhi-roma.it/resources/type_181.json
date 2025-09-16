@@ -16,6 +16,12 @@
       "A historical currency unit used in many European countries, commonly referenced in ecclesiastical transactions to denote the value of church properties or benefices."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_180",
+    "prefLabel": {
+      "en": "currency"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -24,9 +30,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_180"
     }
   ],
   "@context": {

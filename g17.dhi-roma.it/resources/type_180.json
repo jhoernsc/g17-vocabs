@@ -9,6 +9,56 @@
       "The currency of a monetary value"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_181",
+      "prefLabel": {
+        "en": "ducats"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_186",
+      "prefLabel": {
+        "en": "florin"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_188",
+      "prefLabel": {
+        "en": "scudi"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_189",
+      "prefLabel": {
+        "en": "Markenskudi"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_312",
+      "prefLabel": {
+        "en": "Livre Turonensis"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_404",
+      "prefLabel": {
+        "en": "unknown currency"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_480",
+      "prefLabel": {
+        "en": "wine"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_748",
+      "prefLabel": {
+        "en": "pint of grain"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

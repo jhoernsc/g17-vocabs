@@ -24,6 +24,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_106",
+    "prefLabel": {
+      "en": "type of office"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -32,9 +38,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_106"
     }
   ],
   "@context": {

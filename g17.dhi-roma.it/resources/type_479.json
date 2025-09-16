@@ -9,6 +9,26 @@
       "The primary type of a dedication"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1137",
+      "prefLabel": {
+        "en": "unidentified saint"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_474",
+      "prefLabel": {
+        "en": "mystery of faith"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_89",
+      "prefLabel": {
+        "en": "saint"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

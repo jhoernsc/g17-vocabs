@@ -12,6 +12,12 @@
   "example": {
     "en": "provision (regular)"
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_142",
+    "prefLabel": {
+      "en": "subtype of event"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -20,9 +26,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_142"
     }
   ],
   "@context": {

@@ -9,6 +9,14 @@
       "The primary type of a source"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1169",
+      "prefLabel": {
+        "en": "physical source"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

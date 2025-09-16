@@ -9,6 +9,12 @@
       "An ecclesiastical office or rank associated with leading a chapter of canons or a collegiate church, often involving significant administrative responsibilities."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_83",
+    "prefLabel": {
+      "en": "category of benefice"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "@context": {

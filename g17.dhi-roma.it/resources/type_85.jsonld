@@ -4,6 +4,14 @@
   "prefLabel": {
     "en": "regular benefice"
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_114",
+      "prefLabel": {
+        "en": "regular benefice"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

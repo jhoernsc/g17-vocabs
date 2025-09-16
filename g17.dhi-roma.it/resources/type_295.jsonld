@@ -9,6 +9,12 @@
       "Latin for \"on his own impulse\". In Catholic canon law, it refers to a document issued by the pope on his own initiative and personally signed by him. Such a document may be addressed to the whole church, to part of it, or to some individuals"
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_75",
+    "prefLabel": {
+      "en": "subform of event"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_75"
     }
   ],
   "@context": {

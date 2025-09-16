@@ -9,6 +9,80 @@
       "The primary type of a place"
     ]
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1197",
+      "prefLabel": {
+        "en": "institution territory"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_170",
+      "prefLabel": {
+        "en": "unidentified region"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_322",
+      "prefLabel": {
+        "en": "unidentified sub-region"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_323",
+      "prefLabel": {
+        "en": "sub-region"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_422",
+      "prefLabel": {
+        "en": "location"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_423",
+      "prefLabel": {
+        "en": "unidentified location"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_424",
+      "prefLabel": {
+        "en": "continent"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_55",
+      "prefLabel": {
+        "en": "locality"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_56",
+      "prefLabel": {
+        "en": "unidentified locality"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_752",
+      "prefLabel": {
+        "en": "custom region"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_753",
+      "prefLabel": {
+        "en": "custom sub-region"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_77",
+      "prefLabel": {
+        "en": "region"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

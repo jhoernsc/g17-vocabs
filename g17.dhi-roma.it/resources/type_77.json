@@ -9,6 +9,12 @@
       "A general term for a larger geographic or administrative area, commonly used in both secular and ecclesiastical contexts to organize territories and manage affairs."
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_58",
+    "prefLabel": {
+      "en": "type of place"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_58"
     }
   ],
   "@context": {

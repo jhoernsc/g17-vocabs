@@ -9,6 +9,12 @@
       "A benefice associated with members of the Oratory of Saint Philip Neri, focusing on community prayer, preaching, and musical liturgy. The Congregation Oratoratoire de France in honour of Jesus and Mary Immaculate could also be possible at this point"
     ]
   },
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/type_83",
+    "prefLabel": {
+      "en": "category of benefice"
+    }
+  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
@@ -17,9 +23,6 @@
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_83"
     }
   ],
   "@context": {

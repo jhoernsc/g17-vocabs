@@ -4,6 +4,32 @@
   "prefLabel": {
     "en": "religious order"
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1439",
+      "prefLabel": {
+        "en": "Regular canons"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1441",
+      "prefLabel": {
+        "en": "Mendicant orders"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1440",
+      "prefLabel": {
+        "en": "Unknown order"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1442",
+      "prefLabel": {
+        "en": "Orders of the monastic tradition"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"

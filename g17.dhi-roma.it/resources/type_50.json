@@ -4,6 +4,26 @@
   "prefLabel": {
     "en": "type of subregister"
   },
+  "narrower": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1437",
+      "prefLabel": {
+        "en": "Ordinary nomination"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1436",
+      "prefLabel": {
+        "en": "Nominations due to death"
+      }
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1438",
+      "prefLabel": {
+        "en": "Extraordinary nominations"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/"
