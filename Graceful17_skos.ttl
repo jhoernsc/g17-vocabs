@@ -38,7 +38,7 @@ g17:type_108 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "Term that indicated that an office that a churchman received included pastoral care (e.g. pastor)"@en ;
     skos:prefLabel "With care of souls"@en ;
-    skos:topConceptOf g17:type_254 ;
+    skos:broader g17:type_254 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1090 a skos:Concept ;
@@ -59,7 +59,7 @@ g17:type_1090 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "Obtaining a dispensation refers to the process by which an individual receives formal permission from a church authority to be exempted from a specific ecclesiastical law or obligation. Dispensations are typically granted for pastoral reasons to help individuals comply with the faith while addressing unique circumstances, such as marrying a non-Catholic, being excused from fasting, or other requirements of canon law."@en ;
     skos:prefLabel "Obtaining a dispensation"@en ;
-    skos:topConceptOf g17:type_142 ;
+    skos:broader g17:type_142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1091 a skos:Concept ;
@@ -76,7 +76,7 @@ g17:type_1091 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "Obtaining an indult refers to receiving special permission or a privilege granted by the Pope or a church authority to deviate from a standard Church law or practice. Indults are typically broader or more permanent than dispensations and are often requested for significant or ongoing needs, such as permission for a priest to leave active ministry or for religious communities to adopt particular practices."@en ;
     skos:prefLabel "Obtaining an indult"@en ;
-    skos:topConceptOf g17:type_142 ;
+    skos:broader g17:type_142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1137 a skos:Concept ;
@@ -84,7 +84,7 @@ g17:type_1137 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "An individual saint of the Catholic Church"@en ;
     skos:prefLabel "unidentified saint"@en ;
-    skos:topConceptOf g17:type_479 ;
+    skos:broader g17:type_479 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_114 a skos:Concept ;
@@ -92,7 +92,7 @@ g17:type_114 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "An ecclesiastical office providing a cleric with a stable income and often involving pastoral duties, adhering to specific canonical rules within a religious order."@en ;
     skos:prefLabel "regular benefice"@en ;
-    skos:topConceptOf g17:type_85 ;
+    skos:broader g17:type_85 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1143 a skos:Concept ;
@@ -100,7 +100,7 @@ g17:type_1143 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "\"Residency required” means that the individual appointed to the office is obligated to reside within a specific geographical area or at a particular location tied to the office. This requirement ensures the officeholder can effectively fulfill their duties, such as pastoral care, governance, or liturgical responsibilities, by being physically present in the community they serve."@en ;
     skos:prefLabel "residence required"@en ;
-    skos:topConceptOf g17:type_1142 ;
+    skos:broader g17:type_1142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1145 a skos:Concept ;
@@ -108,7 +108,7 @@ g17:type_1145 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A parish is a local community of the faithful within a diocese, entrusted to a parish priest for pastoral care, worship, and administration of sacraments."@en ;
     skos:prefLabel "parish"@en ;
-    skos:topConceptOf g17:type_63 ;
+    skos:broader g17:type_63 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1146 a skos:Concept ;
@@ -116,7 +116,7 @@ g17:type_1146 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A deanery is a grouping of neighboring parishes within a diocese, overseen by a dean. It facilitates collaboration among parishes and supports the bishop in administering the diocese."@en ;
     skos:prefLabel "deanery"@en ;
-    skos:topConceptOf g17:type_63 ;
+    skos:broader g17:type_63 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1147 a skos:Concept ;
@@ -124,7 +124,7 @@ g17:type_1147 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "An archdeanery is a larger or more prominent division within a diocese, typically encompassing multiple deaneries. It may be overseen by an archdean, who has a role similar to a dean but with broader responsibilities."@en ;
     skos:prefLabel "archdeanery"@en ;
-    skos:topConceptOf g17:type_63 ;
+    skos:broader g17:type_63 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1148 a skos:Concept ;
@@ -132,7 +132,7 @@ g17:type_1148 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A vicariate is an administrative division within a diocese or a mission territory, entrusted to a vicar. It is established to facilitate governance and pastoral care, especially in large or geographically challenging areas."@en ;
     skos:prefLabel "vicariate"@en ;
-    skos:topConceptOf g17:type_63 ;
+    skos:broader g17:type_63 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_116 a skos:Concept ;
@@ -148,28 +148,28 @@ g17:type_116 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "Refers to an ecclesiastical figure who passed away in Rome, often noted for their significant role or contributions to the Church."@en ;
     skos:prefLabel "deceased in Rome"@en ;
-    skos:topConceptOf g17:type_92 ;
+    skos:broader g17:type_92 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1168 a skos:Concept ;
     rdfs:label "physical archive"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "physical archive"@en ;
-    skos:topConceptOf g17:type_1165 ;
+    skos:broader g17:type_1165 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1172 a skos:Concept ;
     rdfs:label "record"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "record"@en ;
-    skos:topConceptOf g17:type_1167 ;
+    skos:broader g17:type_1167 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1173 a skos:Concept ;
     rdfs:label "narrative"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "narrative"@en ;
-    skos:topConceptOf g17:type_1167 ;
+    skos:broader g17:type_1167 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1197 a skos:Concept ;
@@ -177,7 +177,7 @@ g17:type_1197 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A term for a geographic area within ecclesiastical records that comprises the boundaries of an institution’s jurisdiction."@en ;
     skos:prefLabel "institution territory"@en ;
-    skos:topConceptOf g17:type_58 ;
+    skos:broader g17:type_58 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_123 a skos:Concept ;
@@ -185,7 +185,7 @@ g17:type_123 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "auto-generated from erectChurch()"@en ;
     skos:prefLabel "seat of worship"@en ;
-    skos:topConceptOf g17:type_63 ;
+    skos:broader g17:type_63 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1272 a skos:Concept ;
@@ -196,7 +196,7 @@ g17:type_1272 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The patronage of laymen (jurispatronatus laicorum in Latin) refers to the historical right of lay individuals or families to sponsor, protect, or exercise influence over certain ecclesiastical institutions, such as churches, benefices, or monasteries. This often included the right to nominate candidates for certain church offices, fund religious buildings, or oversee their administration, typically in exchange for financial support or land grants."@en ;
     skos:prefLabel "Right of lay patronage"@en ;
-    skos:topConceptOf g17:type_1271 ;
+    skos:broader g17:type_1271 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1273 a skos:Concept ;
@@ -205,7 +205,7 @@ g17:type_1273 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The right of mixed patronage (jurispatronatus mixti) refers to a form of ecclesiastical patronage jointly exercised by both a layperson (or secular authority) and an ecclesiastical authority. This shared right often applied to the appointment of clergy or the governance of a church or benefice. The “mixed” nature of the patronage reflected the cooperation or overlap between secular and ecclesiastical interests."@en ;
     skos:prefLabel "Right of mixed patronage"@en ;
-    skos:topConceptOf g17:type_1271 ;
+    skos:broader g17:type_1271 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1274 a skos:Concept ;
@@ -219,7 +219,7 @@ g17:type_1274 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The term “deceased outside of Rome” (ex curiam in Latin) generally refers to someone who passed away outside the jurisdiction or physical boundaries of Rome, often implying that the person died away from the central Church authority or the Roman Curia. If the deceased was a cleric or an official of the Roman Curia, dying outside of Rome (ex curiam) might indicate that the individual was away from their official post or duties. This could raise questions about whether they were on an authorized mission, in exile, or absent for personal reasons."@en ;
     skos:prefLabel "Deceased outside Roman Curia"@en ;
-    skos:topConceptOf g17:type_92 ;
+    skos:broader g17:type_92 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1275 a skos:Concept ;
@@ -240,7 +240,7 @@ g17:type_1275 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The phrase “according to the constitution of Pius V” (iuxta constitutionem Pii V) refers to the appointment or granting of an ecclesiastical office in compliance with the decrees or guidelines established by Pope Pius V (papacy: 1566–1572). Pope Pius V is known for implementing significant reforms in line with the Council of Trent (1545–1563), which aimed to address abuses and improve the administration of the Church."@en ;
     skos:prefLabel "According to the constitution of Pius V."@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1276 a skos:Concept ;
@@ -257,7 +257,7 @@ g17:type_1276 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "In the context of the granting of benefices, “according to the constitution” refers to following the established laws, regulations, or decrees of the Church that govern the process. These rules ensure that benefices are granted in accordance with canon law and the intentions of the Church’s legal framework."@en ;
     skos:prefLabel "According to the constitution"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1277 a skos:Concept ;
@@ -265,7 +265,7 @@ g17:type_1277 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The cause of vacancy described as “passed down” typically indicates that the vacancy occurred because the previous officeholder relinquished the office voluntarily or by an act of law, transferring the position to another person. As a very generic term this could happen in several ways, such as: resignation, promotion or legal/costumary transfer"@en ;
     skos:prefLabel "Passed down"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1280 a skos:Concept ;
@@ -278,7 +278,7 @@ g17:type_1280 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "Obtaining an absolution refers to receiving a formal pardon for specific canonical penalties or censures, granted by papal authority. This could include the remission of penalties for certain serious offenses against Church law, often involving the restoration of spiritual benefits or privileges."@en ;
     skos:prefLabel "Obtaining an absolution"@en ;
-    skos:topConceptOf g17:type_142 ;
+    skos:broader g17:type_142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1281 a skos:Concept ;
@@ -289,7 +289,7 @@ g17:type_1281 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "Obtaining a benefice means receiving a church office or position that provides income or resources, often tied to the administration of spiritual duties, such as leading a parish or managing ecclesiastical property."@en ;
     skos:prefLabel "Reservation of a benefice"@en ;
-    skos:topConceptOf g17:type_142 ;
+    skos:broader g17:type_142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1330 a skos:Concept ;
@@ -297,7 +297,7 @@ g17:type_1330 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "\"nullius\""@en ;
     skos:prefLabel "territorial prelate"@en ;
-    skos:topConceptOf g17:type_63 ;
+    skos:broader g17:type_63 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1331 a skos:Concept ;
@@ -306,7 +306,7 @@ g17:type_1331 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The “reservation of a benefice” refers to the practice in the medieval and early modern church where the pope or another church authority reserves the right to appoint someone to a particular ecclesiastical office or benefice, bypassing the usual local or customary methods of appointment. This often occurred when the benefice became vacant or was anticipated to do so."@en ;
     skos:prefLabel "Reservation"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1352 a skos:Concept ;
@@ -323,7 +323,7 @@ g17:type_1389 a skos:Concept ;
         "consalia"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Dinner companion"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1390 a skos:Concept ;
@@ -332,7 +332,7 @@ g17:type_1390 a skos:Concept ;
         "candolarius extra officium simplex seu claustrali"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Candle holder"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1391 a skos:Concept ;
@@ -340,7 +340,7 @@ g17:type_1391 a skos:Concept ;
     skos:example "cancellaria"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "chancellor"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1392 a skos:Concept ;
@@ -351,7 +351,7 @@ g17:type_1392 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "Economic administrator of a monastery"@en ;
     skos:prefLabel "Cellarer"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1393 a skos:Concept ;
@@ -360,7 +360,7 @@ g17:type_1393 a skos:Concept ;
         "forsitan risignis"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Holder of an insignia"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1394 a skos:Concept ;
@@ -369,7 +369,7 @@ g17:type_1394 a skos:Concept ;
         "guardenatu"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Guard"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1395 a skos:Concept ;
@@ -382,7 +382,7 @@ g17:type_1395 a skos:Concept ;
         "super infirmaria"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Infirmary"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1398 a skos:Concept ;
@@ -394,14 +394,14 @@ g17:type_1398 a skos:Concept ;
         "precestoria"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Precentor"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1400 a skos:Concept ;
     rdfs:label "Holder of a Conventual Mass"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Holder of a Conventual Mass"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1401 a skos:Concept ;
@@ -412,28 +412,28 @@ g17:type_1401 a skos:Concept ;
         "penitentiario"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Prison confessor"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1402 a skos:Concept ;
     rdfs:label "Costume maker"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Costume maker"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1403 a skos:Concept ;
     rdfs:label "Fur processor"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Fur processor"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1406 a skos:Concept ;
     rdfs:label "paymaster"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "paymaster"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1407 a skos:Concept ;
@@ -441,7 +441,7 @@ g17:type_1407 a skos:Concept ;
     skos:example "eremitorio"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Head of a hermitage"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1410 a skos:Concept ;
@@ -449,7 +449,7 @@ g17:type_1410 a skos:Concept ;
     skos:example "custodia"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "custodian"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1411 a skos:Concept ;
@@ -457,7 +457,7 @@ g17:type_1411 a skos:Concept ;
     skos:example "subprioratu"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "sub-prior"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1413 a skos:Concept ;
@@ -465,14 +465,14 @@ g17:type_1413 a skos:Concept ;
     skos:example "officium advocationis consistorialis"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "juridical office"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1414 a skos:Concept ;
     rdfs:label "Head of a castle"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Head of a castle"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1415 a skos:Concept ;
@@ -480,7 +480,7 @@ g17:type_1415 a skos:Concept ;
     skos:example "pietonalis"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Spiritual Overseer"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1416 a skos:Concept ;
@@ -490,21 +490,21 @@ g17:type_1416 a skos:Concept ;
         "diaconile"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "Deacon"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1423 a skos:Concept ;
     rdfs:label "archidiaconatu seu modo dignitate"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "archidiaconatu seu modo dignitate"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1426 a skos:Concept ;
     rdfs:label "letter"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "letter"@en ;
-    skos:topConceptOf g17:type_1167 ;
+    skos:broader g17:type_1167 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_143 a skos:Concept ;
@@ -512,7 +512,7 @@ g17:type_143 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The act of officially assigning a church benefice to a cleric, which involves legal and ecclesiastical authorization to manage church revenues and duties."@en ;
     skos:prefLabel "Granting of benefice"@en ;
-    skos:topConceptOf g17:type_142 ;
+    skos:broader g17:type_142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1435 a skos:Concept ;
@@ -520,7 +520,7 @@ g17:type_1435 a skos:Concept ;
     skos:example "right of patronage not mentioned"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "right of patronage not mentioned"@en ;
-    skos:topConceptOf g17:type_1271 ;
+    skos:broader g17:type_1271 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_144 a skos:Concept ;
@@ -645,7 +645,7 @@ g17:type_144 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "An official act setting aside a specific portion of church revenues as a pension for a cleric or church official, typically upon retirement or in special circumstances."@en ;
     skos:prefLabel "Reservation of a pension"@en ;
-    skos:topConceptOf g17:type_142 ;
+    skos:broader g17:type_142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_170 a skos:Concept ;
@@ -653,7 +653,7 @@ g17:type_170 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A term for areas within ecclesiastical records that are not clearly identified or whose exact location remains unspecified, often used in historical or archival contexts."@en ;
     skos:prefLabel "unidentified region"@en ;
-    skos:topConceptOf g17:type_58 ;
+    skos:broader g17:type_58 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_181 a skos:Concept ;
@@ -664,7 +664,7 @@ g17:type_181 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A historical currency unit used in many European countries, commonly referenced in ecclesiastical transactions to denote the value of church properties or benefices."@en ;
     skos:prefLabel "ducats"@en ;
-    skos:topConceptOf g17:type_180 ;
+    skos:broader g17:type_180 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_186 a skos:Concept ;
@@ -674,7 +674,7 @@ g17:type_186 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A type of gold coin originating from Florence, used widely across Europe, often mentioned in church records in the context of financial transactions or valuations."@en ;
     skos:prefLabel "florin"@en ;
-    skos:topConceptOf g17:type_180 ;
+    skos:broader g17:type_180 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_187 a skos:Concept ;
@@ -693,7 +693,7 @@ g17:type_187 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A specific type of ecclesiastical provision that involves the return or restoration of church properties or rights, typically following a period of dispute or mismanagement."@en ;
     skos:prefLabel "Restitution"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_188 a skos:Concept ;
@@ -704,7 +704,7 @@ g17:type_188 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A historic currency unit used in the Papal States and other parts of Italy, often referenced in church financial records regarding benefice incomes or church expenses."@en ;
     skos:prefLabel "scudi"@en ;
-    skos:topConceptOf g17:type_180 ;
+    skos:broader g17:type_180 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_189 a skos:Concept ;
@@ -715,7 +715,7 @@ g17:type_189 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A specific form of currency, possibly a variant of the scudi, used within certain ecclesiastical or regional contexts, reflecting localized financial practices in church transactions."@en ;
     skos:prefLabel "Markenskudi"@en ;
-    skos:topConceptOf g17:type_180 ;
+    skos:broader g17:type_180 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_191 a skos:Concept ;
@@ -1086,7 +1086,7 @@ g17:type_191 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "An adjusted monetary value that includes variable additional amounts based on specific conditions or criteria, often used in financial accounts related to ecclesiastical benefices."@en ;
     skos:prefLabel "with a floating additional amount"@en ;
-    skos:topConceptOf g17:type_93 ;
+    skos:broader g17:type_93 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_198 a skos:Concept ;
@@ -1096,7 +1096,7 @@ g17:type_198 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The act of officially reducing the pension amount granted to a cleric or church official, typically in response to changes in financial circumstances or church policies."@en ;
     skos:prefLabel "Reduction of a pension"@en ;
-    skos:topConceptOf g17:type_142 ;
+    skos:broader g17:type_142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_199 a skos:Concept ;
@@ -1128,7 +1128,7 @@ g17:type_199 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The formal termination of a pension previously granted to a church official, reflecting a decision based on administrative reassessment or changes in church or benefice status."@en ;
     skos:prefLabel "Cancellation of a pension"@en ;
-    skos:topConceptOf g17:type_142 ;
+    skos:broader g17:type_142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_200 a skos:Concept ;
@@ -1143,7 +1143,7 @@ g17:type_200 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "In canon law, commenda (or in commendam) was a form of transferring an ecclesiastical benefice in trust to the custody of a patron."@en ;
     skos:prefLabel "Placing a commenda"@en ;
-    skos:topConceptOf g17:type_142 ;
+    skos:broader g17:type_142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_201 a skos:Concept ;
@@ -1155,7 +1155,7 @@ g17:type_201 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The formal permission granted by ecclesiastical authority to withdraw funds or resources, typically from a church or benefice, under specified conditions."@en ;
     skos:prefLabel "Authorisation of withdrawal"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_202 a skos:Concept ;
@@ -1172,7 +1172,7 @@ g17:type_202 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The official approval by ecclesiastical authorities for the transfer of legal rights or properties, ensuring compliance with canonical law and church regulations."@en ;
     skos:prefLabel "Authorisation of legal transfer"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_203 a skos:Concept ;
@@ -1189,7 +1189,7 @@ g17:type_203 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The ecclesiastical endorsement of an agreement, often involving benefices or church properties, ensuring that all terms are in accordance with church law and doctrine."@en ;
     skos:prefLabel "Confirmation of agreement"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_204 a skos:Concept ;
@@ -1216,7 +1216,7 @@ g17:type_204 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The act of providing support to a church official or benefice holder by appointing a coadjutor, who assists in administrative and pastoral duties, often due to age or health reasons."@en ;
     skos:prefLabel "Assistance by a coadjutor"@en ;
-    skos:topConceptOf g17:type_142 ;
+    skos:broader g17:type_142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_217 a skos:Concept ;
@@ -1229,7 +1229,7 @@ g17:type_217 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "Term indicating that an office held by a churchman did not involve pastoral care or responsibility for believers"@en ;
     skos:prefLabel "Without care of souls"@en ;
-    skos:topConceptOf g17:type_254 ;
+    skos:broader g17:type_254 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_227 a skos:Concept ;
@@ -1258,7 +1258,7 @@ g17:type_227 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The abbot is the head of a monastery. His duties consisted of managing the monastery's property, enforcing disciplinary measures in the monastery and managing it."@en ;
     skos:prefLabel "Abbot"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_228 a skos:Concept ;
@@ -1282,7 +1282,7 @@ g17:type_228 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The archdeacon was the bishop's deputy. He was responsible for administrative tasks."@en ;
     skos:prefLabel "Archdeacon"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_229 a skos:Concept ;
@@ -1312,7 +1312,7 @@ g17:type_229 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The archpriest was a high-ranking priest who usually presided over a larger church institution (basilica or cathedral). His task consisted of the administration and supervision of these institutions as well as a group of subordinate priests."@en ;
     skos:prefLabel "Archpriest"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_231 a skos:Concept ;
@@ -1334,7 +1334,7 @@ g17:type_231 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A prebend is an income without direct reference to an office or the duties that go with it."@en ;
     skos:prefLabel "Prebendary"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_232 a skos:Concept ;
@@ -1473,7 +1473,7 @@ g17:type_232 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "In the Roman Catholic Church, a pastor is a priest who has been entrusted with the task of pastoral care by a bishop"@en ;
     skos:prefLabel "Pastor"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_234 a skos:Concept ;
@@ -1499,7 +1499,7 @@ g17:type_234 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The cantor is the musical director or leader of the church service."@en ;
     skos:prefLabel "Cantorate"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_236 a skos:Concept ;
@@ -1551,7 +1551,7 @@ g17:type_236 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The vicar basically designates the office of deputy. This can be different deputies: parish vicar, cardinal vicar, episcopal vicar..."@en ;
     skos:prefLabel "Curate"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_237 a skos:Concept ;
@@ -1686,7 +1686,7 @@ g17:type_237 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The ecclesiastical rector is usually a priest who does not preside over a parish or a monastery. However, the term is also used for a priest who acts as the head of a female congregation."@en ;
     skos:prefLabel "Rectorship"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_242 a skos:Concept ;
@@ -1738,7 +1738,7 @@ g17:type_242 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice originally described a gift. Later, the meaning of the term changed and it now refers to an ecclesiastical office with its own income, in this case located explicitly in a church."@en ;
     skos:prefLabel "Holder of a benefice in a church"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_243 a skos:Concept ;
@@ -1756,7 +1756,7 @@ g17:type_243 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The treasurer was entrusted with the supervision of the church treasury."@en ;
     skos:prefLabel "Treasurer"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_247 a skos:Concept ;
@@ -1772,7 +1772,7 @@ g17:type_247 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The chief officer of a chapter of canons, overseeing the administration of the collegiate church and its functions, often second in hierarchy to the dean or provost."@en ;
     skos:prefLabel "Primicerius"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_248 a skos:Concept ;
@@ -1895,7 +1895,7 @@ g17:type_248 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The head of a priory or small monastery, responsible for the spiritual and administrative leadership of the community, subordinate to an abbot or abbess in larger orders."@en ;
     skos:prefLabel "Prior"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_253 a skos:Concept ;
@@ -1909,7 +1909,7 @@ g17:type_253 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A specific method of ecclesiastical appointment where a cleric is formally assigned to a church office or benefice by authoritative decree."@en ;
     skos:prefLabel "Assignment"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_255 a skos:Concept ;
@@ -1940,7 +1940,7 @@ g17:type_255 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A class of ecclesiastical benefice that bestows a high rank within the church hierarchy, often associated with specific ceremonial roles and responsibilities."@en ;
     skos:prefLabel "Holder of a dignity"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_256 a skos:Concept ;
@@ -1957,7 +1957,7 @@ g17:type_256 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "An ecclesiastical benefice associated with serving as a deacon, responsible for various liturgical and administrative duties within a diocese or parish."@en ;
     skos:prefLabel "Dean"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_258 a skos:Concept ;
@@ -1981,7 +1981,7 @@ g17:type_258 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice associated with the role of a sacristan, who is responsible for maintaining the sacristy and church furnishings, and assisting in liturgical preparations."@en ;
     skos:prefLabel "Sacristan"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_260 a skos:Concept ;
@@ -1992,7 +1992,7 @@ g17:type_260 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A territorial unit within the church, typically centered around a main church, where a local cleric is responsible for pastoral care and administrative duties."@en ;
     skos:prefLabel "Parish"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_270 a skos:Concept ;
@@ -2003,7 +2003,7 @@ g17:type_270 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A formal ecclesiastical act that reinstates or adjusts the terms of a pension previously granted to a cleric or church official, ensuring financial continuity."@en ;
     skos:prefLabel "revalidation of a pension"@en ;
-    skos:topConceptOf g17:type_142 ;
+    skos:broader g17:type_142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_273 a skos:Concept ;
@@ -2016,7 +2016,7 @@ g17:type_273 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice or ecclesiastical office associated with the duties of a chamberlain, responsible for managing the domestic affairs of a cathedral or diocese."@en ;
     skos:prefLabel "Chamberlain"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_274 a skos:Concept ;
@@ -2059,7 +2059,7 @@ g17:type_274 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "An ecclesiastical office or rank associated with leading a chapter of canons or a collegiate church, often involving significant administrative responsibilities."@en ;
     skos:prefLabel "Provostship"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_275 a skos:Concept ;
@@ -2067,7 +2067,7 @@ g17:type_275 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The title for the leader of a church-related institution, such as a seminary or religious school, overseeing its operations and educational activities."@en ;
     skos:prefLabel "Head of an institution"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_278 a skos:Concept ;
@@ -2075,7 +2075,7 @@ g17:type_278 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice linked to the promotion of the Rosary, often involving responsibilities for fostering devotion to the Marian prayer among the community."@en ;
     skos:prefLabel "Receiver of a rosary"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_279 a skos:Concept ;
@@ -2088,7 +2088,7 @@ g17:type_279 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A provision that involves the repair or reinstatement of ecclesiastical property or rights previously lost or damaged, restoring them to their former condition."@en ;
     skos:prefLabel "Restoration"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_280 a skos:Concept ;
@@ -2103,7 +2103,7 @@ g17:type_280 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice granted to a clerk, who, being defective in capacity for a benefice or other ecclesiastical function, is de facto admitted to it."@en ;
     skos:prefLabel "Admission despite lack of suitability"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_281 a skos:Concept ;
@@ -2113,7 +2113,7 @@ g17:type_281 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A legal resolution where a dispute is ended without a clear victory for any involved party, often requiring compromise or mutual concession."@en ;
     skos:prefLabel "Termination of a dispute in favour of neither party"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_294 a skos:Concept ;
@@ -2139,7 +2139,7 @@ g17:type_294 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A provision that extends the terms or benefits of an ecclesiastical office or benefice, often to accommodate changes in administration or scope of duties."@en ;
     skos:prefLabel "Extension"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_295 a skos:Concept ;
@@ -2151,7 +2151,7 @@ g17:type_295 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "Latin for \"on his own impulse\". In Catholic canon law, it refers to a document issued by the pope on his own initiative and personally signed by him. Such a document may be addressed to the whole church, to part of it, or to some individuals"@en ;
     skos:prefLabel "Motu proprio"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_296 a skos:Concept ;
@@ -2160,7 +2160,7 @@ g17:type_296 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The act of distributing ecclesiastical resources or benefits, typically involving the assignment of financial support or material goods to churches or clergy."@en ;
     skos:prefLabel "Allocation"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_297 a skos:Concept ;
@@ -2169,7 +2169,7 @@ g17:type_297 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A provision involving the change of purpose or function of an ecclesiastical benefice or institution, adapting to new pastoral needs or community circumstances."@en ;
     skos:prefLabel "Conversion"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_298 a skos:Concept ;
@@ -2194,7 +2194,7 @@ g17:type_298 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A procedural act where a matter or decision is forwarded to a higher ecclesiastical authority for review or final adjudication."@en ;
     skos:prefLabel "Referral to a higher authority"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_299 a skos:Concept ;
@@ -2203,7 +2203,7 @@ g17:type_299 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A provision that eases the canonical requirements or duties of a clerical position, often to accommodate personal circumstances or changes in church policy."@en ;
     skos:prefLabel "relaxation"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_301 a skos:Concept ;
@@ -2212,7 +2212,7 @@ g17:type_301 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The highest-ranking archdeacon within a diocese or church province, responsible for overseeing the administration of church property and clergy."@en ;
     skos:prefLabel "Highest ranked archdeacon"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_303 a skos:Concept ;
@@ -2221,7 +2221,7 @@ g17:type_303 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "An ecclesiastical office tasked with overseeing corrections within clerical or monastic settings, often responsible for ensuring adherence to doctrinal purity and discipline."@en ;
     skos:prefLabel "Corrector"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_312 a skos:Concept ;
@@ -2229,7 +2229,7 @@ g17:type_312 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A historic currency used in the Tours region of France, often mentioned in ecclesiastical transactions for valuation of church properties."@en ;
     skos:prefLabel "Livre Turonensis"@en ;
-    skos:topConceptOf g17:type_180 ;
+    skos:broader g17:type_180 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_313 a skos:Concept ;
@@ -2242,7 +2242,7 @@ g17:type_313 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A provision act that renews the terms of a previously granted commenda, often to extend the administrative rights or duties of a cleric."@en ;
     skos:prefLabel "Renewed commenda"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_314 a skos:Concept ;
@@ -2252,7 +2252,7 @@ g17:type_314 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A provision that renews the financial support granted to a cleric, ensuring continued income under revised or extended terms."@en ;
     skos:prefLabel "Renewed pension"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_315 a skos:Concept ;
@@ -2279,7 +2279,7 @@ g17:type_315 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A provision act that updates or reaffirms the terms under which ecclesiastical benefits are granted, often to align with new church regulations or circumstances."@en ;
     skos:prefLabel "Renewed provision"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_316 a skos:Concept ;
@@ -2293,7 +2293,7 @@ g17:type_316 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A provision that alters the terms or outcome of a legal dispute involving ecclesiastical matters, typically resulting from new evidence or revised church policies."@en ;
     skos:prefLabel "Change in legal dispute"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_317 a skos:Concept ;
@@ -2311,7 +2311,7 @@ g17:type_317 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "In this context, a surrogate means that in a dispute over a benefice or similar, one party resigns or dies and a third party takes his place and receives the right to claim this benefice in his stead."@en ;
     skos:prefLabel "Becoming a surrogate"@en ;
-    skos:topConceptOf g17:type_75 ;
+    skos:broader g17:type_75 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_322 a skos:Concept ;
@@ -2319,7 +2319,7 @@ g17:type_322 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A term for a geographic area within ecclesiastical records that is not clearly defined or recognized, reflecting incomplete or vague documentation."@en ;
     skos:prefLabel "unidentified sub-region"@en ;
-    skos:topConceptOf g17:type_58 ;
+    skos:broader g17:type_58 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_323 a skos:Concept ;
@@ -2327,7 +2327,7 @@ g17:type_323 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A specific geographic division within a larger region, used in ecclesiastical and civil administration to organize local governance and church jurisdictions."@en ;
     skos:prefLabel "sub-region"@en ;
-    skos:topConceptOf g17:type_58 ;
+    skos:broader g17:type_58 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_324 a skos:Concept ;
@@ -2340,7 +2340,7 @@ g17:type_324 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice designated for the scholaster, who is responsible for the educational and scholarly activities within a cathedral or collegiate church."@en ;
     skos:prefLabel "Scholaster"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_327 a skos:Concept ;
@@ -2354,7 +2354,7 @@ g17:type_327 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice assigned to the almoner, responsible for overseeing the distribution of alms and managing charitable works on behalf of a church or religious institution."@en ;
     skos:prefLabel "Almoner"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_330 a skos:Concept ;
@@ -2372,7 +2372,7 @@ g17:type_330 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice associated with the sexton, who is responsible for the maintenance of church property and the supervision of burials and church grounds."@en ;
     skos:prefLabel "Sexton"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_332 a skos:Concept ;
@@ -2401,7 +2401,7 @@ g17:type_332 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice or a special ecclesiastical distinction given to a group of seven clerics, often associated with specific ceremonial or administrative duties in a cathedral."@en ;
     skos:prefLabel "Hebdomadarian"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_336 a skos:Concept ;
@@ -2411,7 +2411,7 @@ g17:type_336 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice associated with members of the Oratory of Saint Philip Neri, focusing on community prayer, preaching, and musical liturgy. The Congregation Oratoratoire de France in honour of Jesus and Mary Immaculate could also be possible at this point"@en ;
     skos:prefLabel "Head of an oratory"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_337 a skos:Concept ;
@@ -2420,7 +2420,7 @@ g17:type_337 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice designated for a scholar, typically within a cathedral or academic institution, supporting theological, philosophical, or canonical studies."@en ;
     skos:prefLabel "Scholar"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_338 a skos:Concept ;
@@ -2433,7 +2433,7 @@ g17:type_338 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice specifically tailored to a person of distinction, often reserved for individuals holding significant roles or responsibilities within the church."@en ;
     skos:prefLabel "Personat"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_392 a skos:Concept ;
@@ -2441,7 +2441,7 @@ g17:type_392 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice that involves the management of a legacy, often financial or property-based, bequeathed to a church or religious institution."@en ;
     skos:prefLabel "Legacy"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_397 a skos:Concept ;
@@ -2449,7 +2449,7 @@ g17:type_397 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice associated with a particular residence or house belonging to a church, providing living quarters and associated responsibilities to the beneficiary."@en ;
     skos:prefLabel "Head of a mansion"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_404 a skos:Concept ;
@@ -2457,7 +2457,7 @@ g17:type_404 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A generic term used for a currency that is not specified or identified in the records, often noted in historical or archival documents."@en ;
     skos:prefLabel "unknown currency"@en ;
-    skos:topConceptOf g17:type_180 ;
+    skos:broader g17:type_180 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_419 a skos:Concept ;
@@ -2468,7 +2468,7 @@ g17:type_419 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice assigned to a patron, typically a layperson or ecclesiastic who holds the right to appoint or present a cleric to a church office."@en ;
     skos:prefLabel "Patron"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_422 a skos:Concept ;
@@ -2476,7 +2476,7 @@ g17:type_422 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A general term for any geographical area or position where a specific event or institution is situated, used broadly in ecclesiastical and secular contexts."@en ;
     skos:prefLabel "location"@en ;
-    skos:topConceptOf g17:type_58 ;
+    skos:broader g17:type_58 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_423 a skos:Concept ;
@@ -2484,7 +2484,7 @@ g17:type_423 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A term used when the specific location of an event, institution, or property cannot be identified or confirmed, often appearing in historical records."@en ;
     skos:prefLabel "unidentified location"@en ;
-    skos:topConceptOf g17:type_58 ;
+    skos:broader g17:type_58 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_424 a skos:Concept ;
@@ -2492,7 +2492,7 @@ g17:type_424 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A large geographical division of the world, categorized in ecclesiastical terms for administrative and missionary purposes."@en ;
     skos:prefLabel "continent"@en ;
-    skos:topConceptOf g17:type_58 ;
+    skos:broader g17:type_58 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_426 a skos:Concept ;
@@ -2504,7 +2504,7 @@ g17:type_426 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice designated for someone who provides care within a church-operated hospital, focusing on the spiritual and physical welfare of patients."@en ;
     skos:prefLabel "Hospital carer"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_427 a skos:Concept ;
@@ -2512,7 +2512,7 @@ g17:type_427 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice bestowed upon an individual who serves as the formal guardian or overseer of a church, involved in both spiritual and administrative capacities."@en ;
     skos:prefLabel "Patron of a church"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_431 a skos:Concept ;
@@ -2520,7 +2520,7 @@ g17:type_431 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice designated for a priest, incorporating the rights and duties to perform sacraments and pastoral care within a parish or church community."@en ;
     skos:prefLabel "Priest"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_434 a skos:Concept ;
@@ -2529,7 +2529,7 @@ g17:type_434 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice that includes the provision of extra payments or allowances beyond the standard stipend, often for specific duties or achievements."@en ;
     skos:prefLabel "Receiver of an additional payment"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_446 a skos:Concept ;
@@ -2538,7 +2538,7 @@ g17:type_446 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice assigned to the cleric responsible for handling and distributing holy water during liturgical services, reflecting a specific liturgical role."@en ;
     skos:prefLabel "Holy water bearer"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_447 a skos:Concept ;
@@ -2547,7 +2547,7 @@ g17:type_447 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice held by a cleric whose primary duty is to preach and deliver sermons, often tasked with educating and guiding the spiritual life of the community."@en ;
     skos:prefLabel "Preacher"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_448 a skos:Concept ;
@@ -2558,7 +2558,7 @@ g17:type_448 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice designated for a cleric responsible for reading liturgical texts and scriptures during church services, important for educating the congregation."@en ;
     skos:prefLabel "Lector"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_449 a skos:Concept ;
@@ -2568,7 +2568,7 @@ g17:type_449 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A vicar appointed within an abbey, responsible for representing and assisting the abbot or abbess in managing the monastic community's daily affairs."@en ;
     skos:prefLabel "Abbey Vicar"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_450 a skos:Concept ;
@@ -2596,7 +2596,7 @@ g17:type_450 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "Normally, this is an heir who is not related to the deceased"@en ;
     skos:prefLabel "Heir"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_451 a skos:Concept ;
@@ -2618,7 +2618,7 @@ g17:type_451 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A benefice held by an individual who possesses a prestimony, often involving certain privileges or revenues linked to a particular ecclesiastical office."@en ;
     skos:prefLabel "Holder of prestimony"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_455 a skos:Concept ;
@@ -2626,7 +2626,7 @@ g17:type_455 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A basic form of pastoral care where the cleric's responsibilities are primarily focused on the spiritual welfare of a parish or community without extensive administrative duties."@en ;
     skos:prefLabel "Simple"@en ;
-    skos:topConceptOf g17:type_254 ;
+    skos:broader g17:type_254 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_456 a skos:Concept ;
@@ -2634,7 +2634,7 @@ g17:type_456 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A form of pastoral care involving management within a convent, where the cleric oversees both spiritual duties and the communal life of the religious community."@en ;
     skos:prefLabel "conventual"@en ;
-    skos:topConceptOf g17:type_254 ;
+    skos:broader g17:type_254 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_467 a skos:Concept ;
@@ -2642,7 +2642,7 @@ g17:type_467 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A specific focus or dedication of a church or chapel altar, often honoring a saint or religious event, which defines the liturgical identity of the space."@en ;
     skos:prefLabel "altar"@en ;
-    skos:topConceptOf g17:type_466 ;
+    skos:broader g17:type_466 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_468 a skos:Concept ;
@@ -2650,7 +2650,7 @@ g17:type_468 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "\"sub invocatione\" seems to relate to another structure mentioned, e.g. a chapell."@en ;
     skos:prefLabel "structure"@en ;
-    skos:topConceptOf g17:type_466 ;
+    skos:broader g17:type_466 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_474 a skos:Concept ;
@@ -2658,7 +2658,7 @@ g17:type_474 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A concept or event that is considered a Mystery of Faithy by the Catholic Church"@en ;
     skos:prefLabel "mystery of faith"@en ;
-    skos:topConceptOf g17:type_479 ;
+    skos:broader g17:type_479 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_480 a skos:Concept ;
@@ -2666,7 +2666,7 @@ g17:type_480 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A unit of currency or value, often used historically in ecclesiastical contexts, referring to wine used as a medium of exchange or offering."@en ;
     skos:prefLabel "wine"@en ;
-    skos:topConceptOf g17:type_180 ;
+    skos:broader g17:type_180 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_481 a skos:Concept ;
@@ -2675,7 +2675,7 @@ g17:type_481 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "An act of assigning or reassigning ecclesiastical offices or benefits through official church authority, typically involving formal ceremonies or documentation."@en ;
     skos:prefLabel "Provision"@en ;
-    skos:topConceptOf g17:type_142 ;
+    skos:broader g17:type_142 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_55 a skos:Concept ;
@@ -2683,7 +2683,7 @@ g17:type_55 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A term for a specific area or neighborhood within a larger geographic or administrative region, often used in ecclesiastical contexts to specify church jurisdictions."@en ;
     skos:prefLabel "locality"@en ;
-    skos:topConceptOf g17:type_58 ;
+    skos:broader g17:type_58 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_56 a skos:Concept ;
@@ -2691,7 +2691,7 @@ g17:type_56 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A designation for an area whose exact identity or specifics are not clearly defined or recorded, often used in ecclesiastical documents for areas with unclear boundaries."@en ;
     skos:prefLabel "unidentified locality"@en ;
-    skos:topConceptOf g17:type_58 ;
+    skos:broader g17:type_58 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_57 a skos:Concept ;
@@ -2699,7 +2699,7 @@ g17:type_57 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A major administrative division within the church, encompassing several dioceses and governed by a metropolitan archbishop, coordinating regional church affairs."@en ;
     skos:prefLabel "ecclesiastical province"@en ;
-    skos:topConceptOf g17:type_63 ;
+    skos:broader g17:type_63 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_60 a skos:Concept ;
@@ -2707,7 +2707,7 @@ g17:type_60 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A legally recognized individual, as opposed to a corporate entity, involved in legal or church-related matters."@en ;
     skos:prefLabel "natural person"@en ;
-    skos:topConceptOf g17:type_59 ;
+    skos:broader g17:type_59 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_61 a skos:Concept ;
@@ -2715,7 +2715,7 @@ g17:type_61 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A term used when the identity of an individual involved in ecclesiastical or legal proceedings cannot be determined or is not specified."@en ;
     skos:prefLabel "unidentified natural person"@en ;
-    skos:topConceptOf g17:type_59 ;
+    skos:broader g17:type_59 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_748 a skos:Concept ;
@@ -2723,7 +2723,7 @@ g17:type_748 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A unit of currency or trade, often used in historical contexts, referring to a specific quantity of grain used as a medium of exchange or valuation."@en ;
     skos:prefLabel "pint of grain"@en ;
-    skos:topConceptOf g17:type_180 ;
+    skos:broader g17:type_180 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_752 a skos:Concept ;
@@ -2732,7 +2732,7 @@ g17:type_752 a skos:Concept ;
         g17:type_58 ;
     skos:note "A specific area defined or customized for particular administrative, ecclesiastical, or geographical purposes, often tailored to local needs or historical boundaries."@en ;
     skos:prefLabel "custom region"@en ;
-    skos:topConceptOf g17:type_58 ;
+    skos:broader g17:type_58 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_753 a skos:Concept ;
@@ -2741,7 +2741,7 @@ g17:type_753 a skos:Concept ;
         g17:type_58 ;
     skos:note "A smaller, specific division within a custom region, also defined according to particular administrative, geographical, or ecclesiastical requirements."@en ;
     skos:prefLabel "custom sub-region"@en ;
-    skos:topConceptOf g17:type_58 ;
+    skos:broader g17:type_58 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_77 a skos:Concept ;
@@ -2749,7 +2749,7 @@ g17:type_77 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "A general term for a larger geographic or administrative area, commonly used in both secular and ecclesiastical contexts to organize territories and manage affairs."@en ;
     skos:prefLabel "region"@en ;
-    skos:topConceptOf g17:type_58 ;
+    skos:broader g17:type_58 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_824 a skos:Concept ;
@@ -2757,14 +2757,14 @@ g17:type_824 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "The highest administrative or governing body within a certain context, such as a government or ecclesiastical organization, responsible for overarching decision-making and policy."@en ;
     skos:prefLabel "supreme body of government"@en ;
-    skos:topConceptOf g17:type_63 ;
+    skos:broader g17:type_63 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_854 rdfs:label "uuid5"@en ;
     skos:inScheme g17: ;
     skos:note "A UUID5 generated from the cool IRI"@en ;
     skos:prefLabel "uuid5"@en ;
-    skos:topConceptOf g17:type_923 ;
+    skos:broader g17:type_923 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_855 rdfs:label "record id"@en ;
@@ -2783,14 +2783,14 @@ g17:type_89 a skos:Concept ;
     skos:inScheme g17: ;
     skos:note "An individual saint of the Catholic Church"@en ;
     skos:prefLabel "saint"@en ;
-    skos:topConceptOf g17:type_479 ;
+    skos:broader g17:type_479 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_933 a skos:Concept ;
     rdfs:label "term"@en ;
     skos:inScheme g17: ;
     skos:prefLabel "term"@en ;
-    skos:topConceptOf g17:type_1177 ;
+    skos:broader g17:type_1177 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_938 a skos:Concept ;
@@ -2926,7 +2926,7 @@ g17:type_1169 a skos:Concept ;
     skos:inScheme g17: ;
     skos:narrower g17:type_1170 ;
     skos:prefLabel "physical source"@en ;
-    skos:topConceptOf g17:type_1166 ;
+    skos:broader g17:type_1166 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_117 a skos:Concept ;
@@ -3451,7 +3451,7 @@ g17:type_1436 a skos:Concept ;
     skos:inScheme g17: ;
     skos:narrower g17:type_51 ;
     skos:prefLabel "Nominations due to death"@en ;
-    skos:topConceptOf g17:type_50 ;
+    skos:broader g17:type_50 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1440 a skos:Concept ;
@@ -3459,7 +3459,7 @@ g17:type_1440 a skos:Concept ;
     skos:inScheme g17: ;
     skos:narrower g17:type_452 ;
     skos:prefLabel "Unknown order"@en ;
-    skos:topConceptOf g17:type_90 ;
+    skos:broader g17:type_90 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1443 a skos:Concept ;
@@ -3467,7 +3467,7 @@ g17:type_1443 a skos:Concept ;
     skos:inScheme g17: ;
     skos:narrower g17:type_218 ;
     skos:prefLabel "Undetermined reason"@en ;
-    skos:topConceptOf g17:type_91 ;
+    skos:broader g17:type_91 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1450 a skos:Concept ;
@@ -3475,7 +3475,7 @@ g17:type_1450 a skos:Concept ;
     skos:inScheme g17: ;
     skos:narrower g17:type_1283 ;
     skos:prefLabel "Unspecified institution"@en ;
-    skos:topConceptOf g17:type_88 ;
+    skos:broader g17:type_88 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_205 a skos:Concept ;
@@ -4494,7 +4494,7 @@ g17:type_407 a skos:Concept ;
     skos:narrower g17:type_408 ;
     skos:note "Vagueness in the application of language and terms to cover legal, formal, or planned scenarios that may involve multiple interpretations or outcomes."@en ;
     skos:prefLabel "Strategic Vagueness"@en ;
-    skos:topConceptOf g17:type_406 ;
+    skos:broader g17:type_406 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_409 a skos:Concept ;
@@ -4828,7 +4828,7 @@ g17:type_934 a skos:Concept ;
     skos:inScheme g17: ;
     skos:narrower g17:type_935 ;
     skos:prefLabel "thesaurus"@en ;
-    skos:topConceptOf g17:type_1177 ;
+    skos:broader g17:type_1177 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_935 a skos:Concept ;
@@ -4871,7 +4871,7 @@ g17:type_1437 a skos:Concept ;
     skos:narrower g17:type_117,
         g17:type_52 ;
     skos:prefLabel "Ordinary nomination"@en ;
-    skos:topConceptOf g17:type_50 ;
+    skos:broader g17:type_50 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1438 a skos:Concept ;
@@ -4880,7 +4880,7 @@ g17:type_1438 a skos:Concept ;
     skos:narrower g17:type_73,
         g17:type_74 ;
     skos:prefLabel "Extraordinary nominations"@en ;
-    skos:topConceptOf g17:type_50 ;
+    skos:broader g17:type_50 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1451 a skos:Concept ;
@@ -4889,7 +4889,7 @@ g17:type_1451 a skos:Concept ;
     skos:narrower g17:type_1290,
         g17:type_1367 ;
     skos:prefLabel "Non-ecclesiastical institutions"@en ;
-    skos:topConceptOf g17:type_88 ;
+    skos:broader g17:type_88 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_218 a skos:Concept ;
@@ -4918,7 +4918,7 @@ g17:type_411 a skos:Concept ;
         g17:type_415 ;
     skos:note "Concerns the knowledge about the reliability and completeness of information. It includes uncertainties due to the limitations in understanding or documenting languages, meanings, and references."@en ;
     skos:prefLabel "Epistemic Uncertainty"@en ;
-    skos:topConceptOf g17:type_406 ;
+    skos:broader g17:type_406 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_85 a skos:Concept ;
@@ -4947,7 +4947,7 @@ g17:type_1113 a skos:Concept ;
         g17:type_1105,
         g17:type_1332 ;
     skos:prefLabel "papal grace"@en ;
-    skos:topConceptOf g17:type_53 ;
+    skos:broader g17:type_53 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1121 a skos:Concept ;
@@ -4957,7 +4957,7 @@ g17:type_1121 a skos:Concept ;
         g17:type_1120,
         g17:type_1333 ;
     skos:prefLabel "catholic clerical office"@en ;
-    skos:topConceptOf g17:type_106 ;
+    skos:broader g17:type_106 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1170 a skos:Concept ;
@@ -4977,7 +4977,7 @@ g17:type_1192 a skos:Concept ;
         g17:type_66 ;
     skos:note "A diocese that is under the jurisdiction of an archdiocese, with its bishop typically reporting to the metropolitan archbishop."@en ;
     skos:prefLabel "diocese"@en ;
-    skos:topConceptOf g17:type_63 ;
+    skos:broader g17:type_63 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_408 a skos:Concept ;
@@ -5018,7 +5018,7 @@ g17:type_1334 a skos:Concept ;
         g17:type_1337,
         g17:type_1338 ;
     skos:prefLabel "biographical event"@en ;
-    skos:topConceptOf g17:type_53 ;
+    skos:broader g17:type_53 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1338 a skos:Concept ;
@@ -5039,7 +5039,7 @@ g17:type_1441 a skos:Concept ;
         g17:type_289,
         g17:type_309 ;
     skos:prefLabel "Mendicant orders"@en ;
-    skos:topConceptOf g17:type_90 ;
+    skos:broader g17:type_90 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1442 a skos:Concept ;
@@ -5050,7 +5050,7 @@ g17:type_1442 a skos:Concept ;
         g17:type_287,
         g17:type_290 ;
     skos:prefLabel "Orders of the monastic tradition"@en ;
-    skos:topConceptOf g17:type_90 ;
+    skos:broader g17:type_90 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1447 a skos:Concept ;
@@ -5061,7 +5061,7 @@ g17:type_1447 a skos:Concept ;
         g17:type_421,
         g17:type_430 ;
     skos:prefLabel "Charitable institutions"@en ;
-    skos:topConceptOf g17:type_88 ;
+    skos:broader g17:type_88 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_245 a skos:Concept ;
@@ -5222,7 +5222,7 @@ g17:type_245 a skos:Concept ;
         g17:type_429 ;
     skos:note "The office of a canon (cleric) who is a member of a cathedral chapter or collegiate chapter as well as the resulting income."@en ;
     skos:prefLabel "Canonship and prebend"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_310 a skos:Concept ;
@@ -5248,7 +5248,7 @@ g17:type_310 a skos:Concept ;
         g17:type_261 ;
     skos:note "A role within a monastic community that carries specific religious and administrative duties, integral to the daily operations and spiritual life of the monastery."@en ;
     skos:prefLabel "monastic office"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_466 a skos:Concept ;
@@ -5314,7 +5314,7 @@ g17:type_1445 a skos:Concept ;
         g17:type_442,
         g17:type_445 ;
     skos:prefLabel "Personal reason"@en ;
-    skos:topConceptOf g17:type_91 ;
+    skos:broader g17:type_91 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1448 a skos:Concept ;
@@ -5327,7 +5327,7 @@ g17:type_1448 a skos:Concept ;
         g17:type_222,
         g17:type_308 ;
     skos:prefLabel "Monastic institutions"@en ;
-    skos:topConceptOf g17:type_88 ;
+    skos:broader g17:type_88 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_479 a skos:Concept ;
@@ -5349,7 +5349,7 @@ g17:type_1114 a skos:Concept ;
         g17:type_463 ;
     skos:note "An ecclesiastical privilege granted by the Church authority, allowing a deviation from the usual canonical laws or rules for specific cases, often used to address unique circumstances or hardships."@en ;
     skos:prefLabel "immaterial object"@en ;
-    skos:topConceptOf g17:type_459 ;
+    skos:broader g17:type_459 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_1439 a skos:Concept ;
@@ -5363,7 +5363,7 @@ g17:type_1439 a skos:Concept ;
         g17:type_292,
         g17:type_293 ;
     skos:prefLabel "Regular canons"@en ;
-    skos:topConceptOf g17:type_90 ;
+    skos:broader g17:type_90 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_125 a skos:Concept ;
@@ -5378,7 +5378,7 @@ g17:type_125 a skos:Concept ;
         g17:type_746,
         g17:type_747 ;
     skos:prefLabel "papal coronation"@en ;
-    skos:topConceptOf g17:type_252 ;
+    skos:broader g17:type_252 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_254 a skos:Concept ;
@@ -5409,7 +5409,7 @@ g17:type_1446 a skos:Concept ;
         g17:type_436 ;
     skos:note "Violation of canon law"@en ;
     skos:prefLabel "Sanction"@en ;
-    skos:topConceptOf g17:type_91 ;
+    skos:broader g17:type_91 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_252 a skos:Concept ;
@@ -5591,7 +5591,7 @@ g17:type_302 a skos:Concept ;
         g17:type_432 ;
     skos:note "A church office that provides a source of income to its holder, typically tied to specific duties within the church or community."@en ;
     skos:prefLabel "Holder of a benefice"@en ;
-    skos:topConceptOf g17:type_83 ;
+    skos:broader g17:type_83 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_50 a skos:Concept ;
@@ -5626,7 +5626,7 @@ g17:type_1444 a skos:Concept ;
         g17:type_437,
         g17:type_441 ;
     skos:prefLabel "Administrative reason"@en ;
-    skos:topConceptOf g17:type_91 ;
+    skos:broader g17:type_91 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_53 a skos:Concept ;
@@ -5667,7 +5667,7 @@ g17:type_1449 a skos:Concept ;
         g17:type_264,
         g17:type_457 ;
     skos:prefLabel "Church institutions"@en ;
-    skos:topConceptOf g17:type_88 ;
+    skos:broader g17:type_88 ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime .
 
 g17:type_63 a skos:Concept ;
