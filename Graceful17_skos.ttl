@@ -8,7 +8,7 @@ g17: a skos:ConceptScheme ;
     rdfs:label "G17-Vocab"@en ;
     skos:prefLabel "G17-Vocab"@en ;
     prov:generatedAtTime "2025-04-14T12:43:11"^^xsd:dateTime ;
-    skos:hasTopConcept g17:type_108 .
+    skos:hasTopConcept g17:type_106, g17:type_1142, g17:type_1165, g17:type_1166, g17:type_1167, g17:type_1177, g17:type_1271, g17:type_1295, g17:type_142, g17:type_180, g17:type_252, g17:type_254, g17:type_406, g17:type_459, g17:type_466, g17:type_479, g17:type_50, g17:type_53, g17:type_58, g17:type_59, g17:type_63, g17:type_75, g17:type_83, g17:type_85, g17:type_87, g17:type_88, g17:type_90, g17:type_91, g17:type_92, g17:type_923, g17:type_93, g17:type_938 .
 
 g17:type_108 a skos:Concept ;
     rdfs:label "With care of souls"@en ;
