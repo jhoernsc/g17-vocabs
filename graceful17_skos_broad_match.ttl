@@ -8995,7 +8995,7 @@ g17:type_1901 a skos:Concept ;
 
 
 g17-collection:Collection a skos:ConceptScheme ;
-  skos:prefLabel "Collection"@en .
+  skos:prefLabel "G17 Collection"@en .
 
 g17-collection:type_106 a skos:Concept ;
   skos:prefLabel "type of office (Scheme type_106)"@en ;
