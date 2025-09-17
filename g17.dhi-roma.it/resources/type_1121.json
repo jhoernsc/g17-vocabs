@@ -27,21 +27,33 @@
   "broadMatch": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_1901"
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1121"
     }
   ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_106"
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1900"
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_106"
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1900"
     }
   ],
   "topConceptOf": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_106"
+    },
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1900"
     }
   ],
   "@context": {
