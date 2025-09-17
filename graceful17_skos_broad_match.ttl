@@ -8992,4 +8992,4 @@ g17:type_1901 a skos:Concept ;
     prov:generatedAtTime "2025-09-16T15:46:21"^^xsd:dateTime .
 
 g17:vocab_collection a skos:Collection ;
-    skos:label "G17 Vocab Collection"@en .
+    rdfs:label "G17 Vocab Collection"@en .
