@@ -31,9 +31,9 @@
     }
   ],
   "broader": {
-    "id": "https://g17.dhi-roma.it/resources/Root",
+    "id": "https://g17.dhi-roma.it/collection/type_106",
     "prefLabel": {
-      "de": "Alle Konzepte"
+      "en": "Thesaurus type_1800 (clergy)"
     }
   },
   "broadMatch": [
@@ -43,16 +43,10 @@
   ],
   "inScheme": [
     {
-      "id": "https://g17.dhi-roma.it/resources/Thesaurus"
-    },
-    {
       "id": "https://g17.dhi-roma.it/resources/type_106"
     }
   ],
   "inSchemeAll": [
-    {
-      "id": "https://g17.dhi-roma.it/resources/Thesaurus"
-    },
     {
       "id": "https://g17.dhi-roma.it/resources/type_106"
     }
