@@ -9,6 +9,11 @@
       "A basic form of pastoral care where the cleric's responsibilities are primarily focused on the spiritual welfare of a parish or community without extensive administrative duties."
     ]
   },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_254"

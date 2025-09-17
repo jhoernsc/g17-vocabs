@@ -9,6 +9,11 @@
       "A form of pastoral care involving management within a convent, where the cleric oversees both spiritual duties and the communal life of the religious community."
     ]
   },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_254"

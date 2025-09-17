@@ -9,12 +9,6 @@
       "A diocese that is under the jurisdiction of an archdiocese, with its bishop typically reporting to the metropolitan archbishop."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_1192",
-    "prefLabel": {
-      "en": "diocese"
-    }
-  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_63"

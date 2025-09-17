@@ -9,6 +9,11 @@
       "The act of providing support to a church official or benefice holder by appointing a coadjutor, who assists in administrative and pastoral duties, often due to age or health reasons."
     ]
   },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_142"

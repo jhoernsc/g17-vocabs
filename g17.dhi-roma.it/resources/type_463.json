@@ -9,12 +9,6 @@
       "An auxiliary or assisting role within the church, where the incumbent supports another cleric in their duties, often due to age or health reasons."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_1114",
-    "prefLabel": {
-      "en": "immaterial object"
-    }
-  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_459"

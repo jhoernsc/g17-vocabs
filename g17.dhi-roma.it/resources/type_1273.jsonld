@@ -9,9 +9,11 @@
       "The right of mixed patronage (jurispatronatus mixti) refers to a form of ecclesiastical patronage jointly exercised by both a layperson (or secular authority) and an ecclesiastical authority. This shared right often applied to the appointment of clergy or the governance of a church or benefice. The “mixed” nature of the patronage reflected the cooperation or overlap between secular and ecclesiastical interests."
     ]
   },
-  "example": {
-    "en": "jurispatronatus mixti"
-  },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_1271"

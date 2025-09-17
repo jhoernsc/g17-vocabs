@@ -15,6 +15,11 @@
       "A type of gold coin originating from Florence, used widely across Europe, often mentioned in church records in the context of financial transactions or valuations."
     ]
   },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_180"

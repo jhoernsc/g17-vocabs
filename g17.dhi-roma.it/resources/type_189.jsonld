@@ -16,6 +16,11 @@
       "A specific form of currency, possibly a variant of the scudi, used within certain ecclesiastical or regional contexts, reflecting localized financial practices in church transactions."
     ]
   },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_180"

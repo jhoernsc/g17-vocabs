@@ -9,6 +9,11 @@
       "A unit of currency or trade, often used in historical contexts, referring to a specific quantity of grain used as a medium of exchange or valuation."
     ]
   },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_180"

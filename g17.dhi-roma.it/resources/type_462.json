@@ -9,12 +9,6 @@
       "A temporary ecclesiastical assignment where a cleric holds an office and administers its revenues, often without the obligation of residency or regular duties."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_1114",
-    "prefLabel": {
-      "en": "immaterial object"
-    }
-  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_459"

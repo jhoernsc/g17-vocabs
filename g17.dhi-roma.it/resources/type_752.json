@@ -9,25 +9,24 @@
       "A specific area defined or customized for particular administrative, ecclesiastical, or geographical purposes, often tailored to local needs or historical boundaries."
     ]
   },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_1295"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_58"
     }
   ],
   "inSchemeAll": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_1295"
-    },
-    {
-      "id": "https://g17.dhi-roma.it/resources/type_58"
     }
   ],
   "topConceptOf": [
     {
-      "id": "https://g17.dhi-roma.it/resources/type_58"
+      "id": "https://g17.dhi-roma.it/resources/type_1295"
     }
   ],
   "@context": {

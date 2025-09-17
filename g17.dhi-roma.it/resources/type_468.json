@@ -9,6 +9,11 @@
       "\"sub invocatione\" seems to relate to another structure mentioned, e.g. a chapell."
     ]
   },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_466"

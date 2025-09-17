@@ -9,12 +9,6 @@
       "The primary diocese of an ecclesiastical province, led by an archbishop who oversees the suffragan dioceses within the province."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_1192",
-    "prefLabel": {
-      "en": "diocese"
-    }
-  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_63"

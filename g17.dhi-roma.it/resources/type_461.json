@@ -9,12 +9,6 @@
       "A regular payment made to a cleric or church official, typically as a retirement benefit or for services rendered, not tied to specific duties."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_1114",
-    "prefLabel": {
-      "en": "immaterial object"
-    }
-  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_459"

@@ -12,12 +12,6 @@
   "example": {
     "en": "ordinarius"
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_1437",
-    "prefLabel": {
-      "en": "Ordinary nomination"
-    }
-  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_50"

@@ -9,6 +9,11 @@
       "A legally recognized individual, as opposed to a corporate entity, involved in legal or church-related matters."
     ]
   },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_59"

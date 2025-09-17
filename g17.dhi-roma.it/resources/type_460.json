@@ -9,12 +9,6 @@
       "A right or title granted to an ecclesiastical position, allowing the holder to receive income or benefits in exchange for performing religious duties."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_1114",
-    "prefLabel": {
-      "en": "immaterial object"
-    }
-  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_459"

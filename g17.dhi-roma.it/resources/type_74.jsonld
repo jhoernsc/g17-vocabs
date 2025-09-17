@@ -9,12 +9,6 @@
       "A specialized subregister used to document extraordinary events or decisions within the Gallic regions, particularly those involving the Pope or papal legates."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_1438",
-    "prefLabel": {
-      "en": "Extraordinary nominations"
-    }
-  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_50"

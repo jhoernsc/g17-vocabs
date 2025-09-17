@@ -9,12 +9,6 @@
       "A specific type of ecclesiastical register used to record events or entitlements that occur upon the death of a church official, affecting succession."
     ]
   },
-  "broader": {
-    "id": "https://g17.dhi-roma.it/resources/type_1436",
-    "prefLabel": {
-      "en": "Nominations due to death"
-    }
-  },
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_50"

@@ -9,6 +9,11 @@
       "The act of officially assigning a church benefice to a cleric, which involves legal and ecclesiastical authorization to manage church revenues and duties."
     ]
   },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_142"

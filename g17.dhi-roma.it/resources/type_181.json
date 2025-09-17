@@ -16,6 +16,11 @@
       "A historical currency unit used in many European countries, commonly referenced in ecclesiastical transactions to denote the value of church properties or benefices."
     ]
   },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_180"

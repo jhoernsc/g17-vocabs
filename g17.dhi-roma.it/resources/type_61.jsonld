@@ -9,6 +9,11 @@
       "A term used when the identity of an individual involved in ecclesiastical or legal proceedings cannot be determined or is not specified."
     ]
   },
+  "broadMatch": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/type_1901"
+    }
+  ],
   "inScheme": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_59"
