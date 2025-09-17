@@ -30,12 +30,6 @@
       }
     }
   ],
-  "broader": {
-    "id": "https://g17.dhi-roma.it/collection/type_106",
-    "prefLabel": {
-      "en": "type of office (Scheme type_106)"
-    }
-  },
   "broadMatch": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_1901"
