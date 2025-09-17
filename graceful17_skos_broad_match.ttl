@@ -8999,7 +8999,7 @@ g17:Thesaurus a skos:ConceptScheme ;
 # Optional: eine einzige „Wurzel“ als Concept
 g17:Root a skos:Concept ;
   skos:prefLabel "Alle Konzepte"@de ;
-  skos:topConceptOf ex:Thesaurus .
+  skos:topConceptOf g17:Thesaurus .
 
 g17:type_1800 skos:inScheme g17:Thesaurus .
 
