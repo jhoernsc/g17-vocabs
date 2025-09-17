@@ -8991,3 +8991,6 @@ g17:type_1901 a skos:Concept ;
     skos:prefLabel "GRACEFUL17 Root Mapping"@en ;
     prov:generatedAtTime "2025-09-16T15:46:21"^^xsd:dateTime .
 
+g17:g17_vocab_collection a skos:Collection ;
+    skos:prefLabel "G17 Vocab Collection"@en ;
+    skos:member g17:type_106 .
