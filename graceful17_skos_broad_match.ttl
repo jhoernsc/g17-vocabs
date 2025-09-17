@@ -9003,5 +9003,7 @@ g17-collection:type_106 a skos:Concept ;
   skos:topConceptOf g17-collection:Collection .
 
 g17-collection:type_1800 skos:inScheme g17-collection:Collection .
+g17-collection:type_1121 skos:inScheme g17-collection:Collection .
 
 g17-collection:type_106 skos:narrower g17:type_1800 .
+g17-collection:type_106 skos:narrower g17:type_1121 .
