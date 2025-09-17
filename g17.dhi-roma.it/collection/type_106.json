@@ -11,6 +11,12 @@
   },
   "narrower": [
     {
+      "id": "https://g17.dhi-roma.it/resources/type_1121",
+      "prefLabel": {
+        "en": "catholic clerical office"
+      }
+    },
+    {
       "id": "https://g17.dhi-roma.it/resources/type_1800",
       "prefLabel": {
         "en": "clergy"
