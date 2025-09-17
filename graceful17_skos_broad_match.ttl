@@ -8992,18 +8992,3 @@ g17:type_1901 a skos:Concept ;
     skos:prefLabel "GRACEFUL17 Root Mapping"@en ;
     prov:generatedAtTime "2025-09-16T15:46:21"^^xsd:dateTime .
 
-
-
-g17-collection:Collection a skos:ConceptScheme ;
-  skos:prefLabel "G17 Collection"@en .
-
-g17-collection:type_106 a skos:Concept ;
-  skos:prefLabel "type of office (Scheme type_106)"@en ;
-  skos:note "name of g17-schemes"@en ;
-  skos:topConceptOf g17-collection:Collection .
-
-g17-collection:type_1800 skos:inScheme g17-collection:Collection .
-g17-collection:type_1121 skos:inScheme g17-collection:Collection .
-
-g17-collection:type_106 skos:narrower g17:type_1800 .
-g17-collection:type_106 skos:narrower g17:type_1121 .
