@@ -8991,7 +8991,16 @@ g17:type_1901 a skos:Concept ;
     skos:prefLabel "GRACEFUL17 Root Mapping"@en ;
     prov:generatedAtTime "2025-09-16T15:46:21"^^xsd:dateTime .
 
-g17:g17_vocab_collection a skos:Collection ;
-    rdfs:label "G17 Vocab Collection"@en ;
-    skos:prefLabel "G17 Vocab Collection"@en ;
-    skos:member g17:type_106 .
+
+
+g17:Thesaurus a skos:ConceptScheme ;
+  skos:prefLabel "Thesaurus"@de .
+
+# Optional: eine einzige „Wurzel“ als Concept
+g17:Root a skos:Concept ;
+  skos:prefLabel "Alle Konzepte"@de ;
+  skos:topConceptOf ex:Thesaurus .
+
+g17:type_1800 skos:inScheme g17:Thesaurus .
+
+g17:Root skos:narrower g17:type_1800 .
