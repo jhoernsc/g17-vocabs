@@ -30,6 +30,12 @@
       }
     }
   ],
+  "broader": {
+    "id": "https://g17.dhi-roma.it/resources/Root",
+    "prefLabel": {
+      "de": "Alle Konzepte"
+    }
+  },
   "broadMatch": [
     {
       "id": "https://g17.dhi-roma.it/resources/type_1901"
@@ -37,10 +43,16 @@
   ],
   "inScheme": [
     {
+      "id": "https://g17.dhi-roma.it/resources/Thesaurus"
+    },
+    {
       "id": "https://g17.dhi-roma.it/resources/type_106"
     }
   ],
   "inSchemeAll": [
+    {
+      "id": "https://g17.dhi-roma.it/resources/Thesaurus"
+    },
     {
       "id": "https://g17.dhi-roma.it/resources/type_106"
     }
